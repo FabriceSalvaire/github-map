@@ -9,18 +9,16 @@
 
    Updated on 2016-01-20 21:07:19
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview)
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 38 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   38 :star:</br>
    Updated on 2017-11-10 01:51:04
 
-* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel)
+* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
 
    LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
 
-   3 :star:</br>
    Updated on 2016-10-25 21:53:06
 
 * [Musica](https://github.com/FabriceSalvaire/Musica)
@@ -35,11 +33,10 @@
 
    Updated on 2017-11-06 16:32:11
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI)
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 5 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   5 :star:</br>
    Updated on 2017-02-18 12:06:45
 
 * [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
@@ -54,18 +51,16 @@
 
    Updated on 2017-11-10 16:50:30
 
-* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng)
+* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
 
    An OpenGL CFFI (and ctypes) binding for Python
 
-   7 :star:</br>
    Updated on 2017-07-24 13:42:41
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina)
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
-   2 :star:</br>
    Updated on 2017-10-01 20:07:14
 
 * [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
@@ -98,11 +93,10 @@
 
    Updated on 2015-11-21 19:40:06
 
-* [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi)
+* [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 3 :star:</br>
 
    A Python wrapper for GLFW based on CFFI
 
-   3 :star:</br>
    Updated on 2017-02-18 12:00:59
 
 * [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
@@ -145,11 +139,10 @@
 
    Updated on 2017-02-23 00:35:10
 
-* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg)
+* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 3 :star:</br>
 
    SVG Plugin for Django CMS
 
-   3 :star:</br>
    Updated on 2017-07-05 12:27:12
 
 ## Python Electronic
@@ -160,27 +153,24 @@
 
    Updated on 2017-06-04 15:45:27
 
-* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode)
+* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
    PyResistorColorCode is a Python module that provides some tools to manage IEC 60062 marking codes for resistors.
 
-   1 :star:</br>
    Updated on 2017-05-02 17:58:16
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice)
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 66 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   66 :star:</br>
    Updated on 2017-11-08 13:35:27
 
 ## Python Mechanic
 
-* [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot)
+* [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot) 1 :star:</br>
 
    Linear Delta Robot
 
-   1 :star:</br>
    Updated on 2017-02-18 12:06:01
 
 ## Python Image Processing
@@ -205,20 +195,18 @@
 
    Updated on 2017-02-18 11:54:09
 
-* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme)
+* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 23 :star:</br>
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   23 :star:</br>
    Updated on 2017-11-03 09:37:02
 
 ## Sphinx
 
-* [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image)
+* [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
 
    This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
 
-   1 :star:</br>
    Updated on 2017-02-18 12:06:14
 
 * [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
@@ -233,11 +221,10 @@
 
    Updated on 2017-10-11 16:32:40
 
-* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata)
+* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 1 :star:</br>
 
    Microdata semantic markups support for Sphinx Documentation Generator.
 
-   1 :star:</br>
    Updated on 2017-02-18 12:06:25
 
 * [sphinx-sass-theme](https://github.com/FabriceSalvaire/sphinx-sass-theme)
@@ -248,20 +235,18 @@
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders)
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 13 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   13 :star:</br>
    Updated on 2017-10-25 07:47:50
 
 ## Others
 
-* [mupdf-cmake](https://github.com/FabriceSalvaire/mupdf-cmake)
+* [mupdf-cmake](https://github.com/FabriceSalvaire/mupdf-cmake) 1 :star:</br>
 
    CMake build for MuPDF
 
-   1 :star:</br>
    Updated on 2017-09-15 14:22:59
 
 ## Tools
@@ -274,11 +259,10 @@
 
 ## Fedora
 
-* [copr-mao](https://github.com/FabriceSalvaire/copr-mao)
+* [copr-mao](https://github.com/FabriceSalvaire/copr-mao) 2 :star:</br>
 
    Some MAO Fedora packages
 
-   2 :star:</br>
    Updated on 2017-10-22 18:41:32
 
 * [copr-ngspice](https://github.com/FabriceSalvaire/copr-ngspice)
@@ -309,11 +293,10 @@
 
 ## Outdated
 
-* [libfprint-baspi](https://github.com/FabriceSalvaire/libfprint-baspi)
+* [libfprint-baspi](https://github.com/FabriceSalvaire/libfprint-baspi) 1 :star:</br>
 
    libfprint v0.5.0 with a wrapper driver that uses the proprietary libbsapi from Authentec.
 
-   1 :star:</br>
    Updated on 2016-03-01 02:03:02
 
 ## Contributed
@@ -330,11 +313,10 @@
 
    Updated on 2016-01-11 15:39:56
 
-* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax)
+* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
 
    MathJax Plugin for Django CMS 
 
-   1 :star:</br>
    Updated on 2016-10-26 03:45:31
 
 * [cmsplugin-rst](https://github.com/FabriceSalvaire/cmsplugin-rst)
