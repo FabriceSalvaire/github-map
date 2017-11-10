@@ -1,9 +1,269 @@
 
 # Summary of my projects on Github
 
+## Python
+
+* [Biblio](https://github.com/FabriceSalvaire/Biblio)
+
+   An experimental PDF document manager.
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2016-01-20 21:07:19
+
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview)
+
+   CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
+
+   38 :star:</br>
+   Python</br>
+   Updated on 2017-11-10 01:51:04
+
+* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel)
+
+   LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
+
+   3 :star:</br>
+   Python</br>
+   Updated on 2016-10-25 21:53:06
+
+* [Musica](https://github.com/FabriceSalvaire/Musica)
+
+   Musica is a Python toolkit for computational music.
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-11-08 17:44:05
+
+* [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
+
+   Data for Musica
+
+   0 :star:</br>
+   None</br>
+   Updated on 2017-11-06 16:32:11
+
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI)
+
+   PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
+
+   5 :star:</br>
+   Python</br>
+   Updated on 2017-02-18 12:06:45
+
+* [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
+
+   PyLibTiff is a Python binding to the TIFF reference library libtiff.
+
+   0 :star:</br>
+   C</br>
+   Updated on 2014-01-18 12:46:35
+
+* [PyMetrology](https://github.com/FabriceSalvaire/PyMetrology)
+
+   An unit framework for Python 3
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-11-10 16:50:30
+
+* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng)
+
+   An OpenGL CFFI (and ctypes) binding for Python
+
+   7 :star:</br>
+   Python</br>
+   Updated on 2017-07-24 13:42:41
+
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina)
+
+   Python implementation of the Valentina Pattern Making software
+
+   2 :star:</br>
+   Python</br>
+   Updated on 2017-10-01 20:07:14
+
+* [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
+
+   A Python client for the camptocamp.org REST API
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-02-18 12:03:07
+
+* [elbrea](https://github.com/FabriceSalvaire/elbrea)
+
+   R&D project featuring image processing and a xournal clone
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-05-20 20:33:03
+
+* [monitor-server](https://github.com/FabriceSalvaire/monitor-server)
+
+   PyQt applet to monitor an OVH Virtual Private Server
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2014-11-28 20:16:01
+
+* [pyFinancialSimulator](https://github.com/FabriceSalvaire/pyFinancialSimulator)
+
+   A financial simulator written in Python
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2015-09-27 16:42:06
+
+* [pygeoportail](https://github.com/FabriceSalvaire/pygeoportail)
+
+   Géoportail Python client
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2015-11-21 19:40:06
+
+* [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi)
+
+   A Python wrapper for GLFW based on CFFI
+
+   3 :star:</br>
+   Python</br>
+   Updated on 2017-02-18 12:00:59
+
+* [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
+
+   Additional Pygments Lexer
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-02-18 12:05:11
+
+* [python-arithmetic-interval](https://github.com/FabriceSalvaire/python-arithmetic-interval)
+
+   A Python Arithmetic Interval Module 
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-11-10 16:02:04
+
+## Python Web Application
+
+* [bleau-database](https://github.com/bleaudb/bleau-database)
+
+    This repository contains a database of the bouldering circuits of Fontainebleau and a web application to show and manage this database.
+
+   0 :star:</br>
+   HTML</br>
+   Updated on 2016-10-02 20:14:52
+
+* [grouped-purchase-order](https://github.com/FabriceSalvaire/grouped-purchase-order)
+
+   A Django web application to manage grouped purchase order.
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2016-03-13 13:53:14
+
+## DjangoCMS
+
+* [cmsplugin-getthecode](https://github.com/FabriceSalvaire/cmsplugin-getthecode)
+
+   Django CMS plugin to show source code
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-02-23 00:33:52
+
+* [cmsplugin-markup-language](https://github.com/FabriceSalvaire/cmsplugin-markup-language)
+
+   Markup language (RST) plugin for Django CMS
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-02-23 00:35:10
+
+* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg)
+
+   SVG Plugin for Django CMS
+
+   3 :star:</br>
+   Python</br>
+   Updated on 2017-07-05 12:27:12
+
+## Python Electronic
+
+* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator)
+
+   CPU Simulator written in Python
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-06-04 15:45:27
+
+* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode)
+
+   PyResistorColorCode is a Python module that provides some tools to manage IEC 60062 marking codes for resistors.
+
+   1 :star:</br>
+   Python</br>
+   Updated on 2017-05-02 17:58:16
+
+* [PySpice](https://github.com/FabriceSalvaire/PySpice)
+
+   Simulate electronic circuit using Python and the Ngspice / Xyce simulators
+
+   66 :star:</br>
+   Python</br>
+   Updated on 2017-11-08 13:35:27
+
+## Python Mechanic
+
+* [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot)
+
+   Linear Delta Robot
+
+   1 :star:</br>
+   Python</br>
+   Updated on 2017-02-18 12:06:01
+
+## Python Image Processing
+
+* [mamba-image](https://github.com/FabriceSalvaire/mamba-image)
+
+   Unofficial repository for http://www.mamba-image.org
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2015-01-27 22:05:48
+
+* [simple-morpho-math](https://github.com/FabriceSalvaire/simple-morpho-math)
+
+   A simple mathematical morphology library
+
+   0 :star:</br>
+   Python</br>
+   Updated on 2017-02-18 12:04:55
+
+## Web
+
+* [css-demo](https://github.com/FabriceSalvaire/css-demo)
+
+   HTML pages to test various CSS settings and based on Bootstrap, Jinja2, SASS and Gulp
+
+   0 :star:</br>
+   CSS</br>
+   Updated on 2017-02-18 11:54:09
+
+* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme)
+
+   Redmine theme forked from the vanilla Redmine theme and converted to SASS
+
+   23 :star:</br>
+   CSS</br>
+   Updated on 2017-11-03 09:37:02
 
 ## Sphinx
-
 
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image)
 
@@ -45,8 +305,27 @@
    CSS</br>
    Updated on 2017-02-18 12:01:55
 
-## Tools
+## Qt
 
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders)
+
+   A Qt5 application to experiment vector graphic shaders
+
+   13 :star:</br>
+   QML</br>
+   Updated on 2017-10-25 07:47:50
+
+## Others
+
+* [mupdf-cmake](https://github.com/FabriceSalvaire/mupdf-cmake)
+
+   CMake build for MuPDF
+
+   1 :star:</br>
+   C</br>
+   Updated on 2017-09-15 14:22:59
+
+## Tools
 
 * [tex-calendar](https://github.com/FabriceSalvaire/tex-calendar)
 
@@ -56,8 +335,61 @@
    Perl</br>
    Updated on 2014-09-09 10:23:36
 
-## Contributed
+## Fedora
 
+* [copr-mao](https://github.com/FabriceSalvaire/copr-mao)
+
+   Some MAO Fedora packages
+
+   2 :star:</br>
+   None</br>
+   Updated on 2017-10-22 18:41:32
+
+* [copr-ngspice](https://github.com/FabriceSalvaire/copr-ngspice)
+
+   None
+
+   0 :star:</br>
+   Shell</br>
+   Updated on 2017-09-18 15:01:22
+
+* [copr-xyce](https://github.com/FabriceSalvaire/copr-xyce)
+
+   None
+
+   0 :star:</br>
+   None</br>
+   Updated on 2017-09-18 01:11:44
+
+## Talks
+
+* [pyconfr-2014](https://github.com/FabriceSalvaire/pyconfr-2014)
+
+   PyConFr 2014 talk and poster
+
+   0 :star:</br>
+   TeX</br>
+   Updated on 2017-02-18 12:09:38
+
+* [pyparis-2017](https://github.com/FabriceSalvaire/pyparis-2017)
+
+   PyParis 2017 Talk — Circuit Simulation using Python 
+
+   0 :star:</br>
+   TeX</br>
+   Updated on 2017-06-04 19:42:10
+
+## Outdated
+
+* [libfprint-baspi](https://github.com/FabriceSalvaire/libfprint-baspi)
+
+   libfprint v0.5.0 with a wrapper driver that uses the proprietary libbsapi from Authentec.
+
+   1 :star:</br>
+   C</br>
+   Updated on 2016-03-01 02:03:02
+
+## Contributed
 
 * [aldryn-newsblog](https://github.com/FabriceSalvaire/aldryn-newsblog)
 
