@@ -3,23 +3,47 @@
 
 ## Python
 
-* [Biblio](https://github.com/FabriceSalvaire/Biblio)
-
-   An experimental PDF document manager.
-
-   Updated on 2016-01-20
-
 * [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 38 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
    Updated on 2017-11-10
 
+* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
+
+   An OpenGL CFFI (and ctypes) binding for Python
+
+   Updated on 2017-07-24
+
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 5 :star:</br>
+
+   PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
+
+   Updated on 2017-02-18
+
 * [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
 
    LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
 
    Updated on 2016-10-25
+
+* [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 3 :star:</br>
+
+   A Python wrapper for GLFW based on CFFI
+
+   Updated on 2017-02-18
+
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
+
+   Python implementation of the Valentina Pattern Making software
+
+   Updated on 2017-10-01
+
+* [Biblio](https://github.com/FabriceSalvaire/Biblio)
+
+   An experimental PDF document manager.
+
+   Updated on 2016-01-20
 
 * [Musica](https://github.com/FabriceSalvaire/Musica)
 
@@ -33,12 +57,6 @@
 
    Updated on 2017-11-06
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 5 :star:</br>
-
-   PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
-
-   Updated on 2017-02-18
-
 * [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
 
    PyLibTiff is a Python binding to the TIFF reference library libtiff.
@@ -50,18 +68,6 @@
    An unit framework for Python 3
 
    Updated on 2017-11-10
-
-* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
-
-   An OpenGL CFFI (and ctypes) binding for Python
-
-   Updated on 2017-07-24
-
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
-
-   Python implementation of the Valentina Pattern Making software
-
-   Updated on 2017-10-01
 
 * [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
 
@@ -93,12 +99,6 @@
 
    Updated on 2015-11-21
 
-* [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 3 :star:</br>
-
-   A Python wrapper for GLFW based on CFFI
-
-   Updated on 2017-02-18
-
 * [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
 
    Additional Pygments Lexer
@@ -127,6 +127,12 @@
 
 ## DjangoCMS
 
+* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 3 :star:</br>
+
+   SVG Plugin for Django CMS
+
+   Updated on 2017-07-05
+
 * [cmsplugin-getthecode](https://github.com/FabriceSalvaire/cmsplugin-getthecode)
 
    Django CMS plugin to show source code
@@ -139,19 +145,13 @@
 
    Updated on 2017-02-23
 
-* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 3 :star:</br>
-
-   SVG Plugin for Django CMS
-
-   Updated on 2017-07-05
-
 ## Python Electronic
 
-* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator)
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 66 :star:</br>
 
-   CPU Simulator written in Python
+   Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2017-06-04
+   Updated on 2017-11-08
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
@@ -159,11 +159,11 @@
 
    Updated on 2017-05-02
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 66 :star:</br>
+* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator)
 
-   Simulate electronic circuit using Python and the Ngspice / Xyce simulators
+   CPU Simulator written in Python
 
-   Updated on 2017-11-08
+   Updated on 2017-06-04
 
 ## Python Mechanic
 
@@ -189,23 +189,29 @@
 
 ## Web
 
-* [css-demo](https://github.com/FabriceSalvaire/css-demo)
-
-   HTML pages to test various CSS settings and based on Bootstrap, Jinja2, SASS and Gulp
-
-   Updated on 2017-02-18
-
 * [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 23 :star:</br>
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
    Updated on 2017-11-03
 
+* [css-demo](https://github.com/FabriceSalvaire/css-demo)
+
+   HTML pages to test various CSS settings and based on Bootstrap, Jinja2, SASS and Gulp
+
+   Updated on 2017-02-18
+
 ## Sphinx
 
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
 
    This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
+
+   Updated on 2017-02-18
+
+* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 1 :star:</br>
+
+   Microdata semantic markups support for Sphinx Documentation Generator.
 
    Updated on 2017-02-18
 
@@ -220,12 +226,6 @@
    Sphinx extension for Lylipond
 
    Updated on 2017-10-11
-
-* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 1 :star:</br>
-
-   Microdata semantic markups support for Sphinx Documentation Generator.
-
-   Updated on 2017-02-18
 
 * [sphinx-sass-theme](https://github.com/FabriceSalvaire/sphinx-sass-theme)
 
@@ -301,6 +301,12 @@
 
 ## Contributed
 
+* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
+
+   MathJax Plugin for Django CMS 
+
+   Updated on 2016-10-26
+
 * [aldryn-newsblog](https://github.com/FabriceSalvaire/aldryn-newsblog)
 
    A combined news/weblog application for Aldryn and django CMS – part of the Essential Addons.
@@ -312,12 +318,6 @@
    Interactive Web Plotting for Python
 
    Updated on 2016-01-11
-
-* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
-
-   MathJax Plugin for Django CMS 
-
-   Updated on 2016-10-26
 
 * [cmsplugin-rst](https://github.com/FabriceSalvaire/cmsplugin-rst)
 
