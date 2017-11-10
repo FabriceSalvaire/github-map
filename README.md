@@ -1,6 +1,196 @@
 
 # Summary of my projects on Github
 
+<ol class="pinned-repos-list  mb-4 js-pinned-repos-reorder-list">
+    <li class="pinned-repo-item  p-3 mb-3 border border-gray-dark rounded-1 js-pinned-repo-list-item public source reorderable sortable-button-item">
+      <div class="pinned-repo-item-content">
+        <span class="d-block position-relative">
+            <input class="form-control" id="pinned-repo-reorder-17987999" name="repo_ids[]" value="17987999" type="hidden">
+            <span class="pinned-repository-handle js-pinned-repository-reorder float-left pr-2" title="Drag to reorder">
+              <svg aria-hidden="true" class="octicon octicon-grabber" height="16" version="1.1" viewBox="0 0 8 16" width="8"><path fill-rule="evenodd" d="M8 4v1H0V4h8zM0 8h8V7H0v1zm0 3h8v-1H0v1z"></path></svg>
+            </span>
+            <a href="/FabriceSalvaire/PySpice" class="text-bold">
+          <span class="repo js-repo" title="PySpice">PySpice</span>
+          </a>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="up"><svg aria-label="Move PySpice up" class="octicon octicon-chevron-up" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"></path></svg></button>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="down"><svg aria-label="Move PySpice down" class="octicon octicon-chevron-down" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"></path></svg></button>
+        </span>
+
+
+        <p class="pinned-repo-desc text-gray text-small d-block mt-2 mb-3">Simulate electronic circuit using Python and the Ngspice / Xyce simulators</p>
+
+        <p class="mb-0 f6 text-gray">
+              <span class="repo-language-color pinned-repo-meta" style="background-color:#3572A5;"></span>
+            Python
+            <a href="/FabriceSalvaire/PySpice/stargazers" class="pinned-repo-meta muted-link">
+              <svg aria-label="stars" class="octicon octicon-star" height="16" role="img" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+              66
+            </a>
+            <a href="/FabriceSalvaire/PySpice/network" class="pinned-repo-meta muted-link">
+              <svg aria-label="forks" class="octicon octicon-repo-forked" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+              30
+            </a>
+        </p>
+      </div>
+    </li>
+    <li class="pinned-repo-item  p-3 mb-3 border border-gray-dark rounded-1 js-pinned-repo-list-item public source reorderable sortable-button-item">
+      <div class="pinned-repo-item-content">
+        <span class="d-block position-relative">
+            <input class="form-control" id="pinned-repo-reorder-18414836" name="repo_ids[]" value="18414836" type="hidden">
+            <span class="pinned-repository-handle js-pinned-repository-reorder float-left pr-2" title="Drag to reorder">
+              <svg aria-hidden="true" class="octicon octicon-grabber" height="16" version="1.1" viewBox="0 0 8 16" width="8"><path fill-rule="evenodd" d="M8 4v1H0V4h8zM0 8h8V7H0v1zm0 3h8v-1H0v1z"></path></svg>
+            </span>
+            <a href="/FabriceSalvaire/CodeReview" class="text-bold">
+          <span class="repo js-repo" title="CodeReview">CodeReview</span>
+          </a>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="up"><svg aria-label="Move CodeReview up" class="octicon octicon-chevron-up" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"></path></svg></button>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="down"><svg aria-label="Move CodeReview down" class="octicon octicon-chevron-down" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"></path></svg></button>
+        </span>
+
+
+        <p class="pinned-repo-desc text-gray text-small d-block mt-2 mb-3">CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.</p>
+
+        <p class="mb-0 f6 text-gray">
+              <span class="repo-language-color pinned-repo-meta" style="background-color:#3572A5;"></span>
+            Python
+            <a href="/FabriceSalvaire/CodeReview/stargazers" class="pinned-repo-meta muted-link">
+              <svg aria-label="stars" class="octicon octicon-star" height="16" role="img" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+              38
+            </a>
+            <a href="/FabriceSalvaire/CodeReview/network" class="pinned-repo-meta muted-link">
+              <svg aria-label="forks" class="octicon octicon-repo-forked" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+              8
+            </a>
+        </p>
+      </div>
+    </li>
+    <li class="pinned-repo-item  p-3 mb-3 border border-gray-dark rounded-1 js-pinned-repo-list-item public source reorderable sortable-button-item">
+      <div class="pinned-repo-item-content">
+        <span class="d-block position-relative">
+            <input class="form-control" id="pinned-repo-reorder-70008982" name="repo_ids[]" value="70008982" type="hidden">
+            <span class="pinned-repository-handle js-pinned-repository-reorder float-left pr-2" title="Drag to reorder">
+              <svg aria-hidden="true" class="octicon octicon-grabber" height="16" version="1.1" viewBox="0 0 8 16" width="8"><path fill-rule="evenodd" d="M8 4v1H0V4h8zM0 8h8V7H0v1zm0 3h8v-1H0v1z"></path></svg>
+            </span>
+            <a href="/FabriceSalvaire/redmine-improved-theme" class="text-bold">
+          <span class="repo js-repo" title="redmine-improved-theme">redmine-improved-theme</span>
+          </a>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="up"><svg aria-label="Move redmine-improved-theme up" class="octicon octicon-chevron-up" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"></path></svg></button>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="down"><svg aria-label="Move redmine-improved-theme down" class="octicon octicon-chevron-down" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"></path></svg></button>
+        </span>
+
+
+        <p class="pinned-repo-desc text-gray text-small d-block mt-2 mb-3">Redmine theme forked from the vanilla Redmine theme and converted to SASS</p>
+
+        <p class="mb-0 f6 text-gray">
+              <span class="repo-language-color pinned-repo-meta" style="background-color:#563d7c;"></span>
+            CSS
+            <a href="/FabriceSalvaire/redmine-improved-theme/stargazers" class="pinned-repo-meta muted-link">
+              <svg aria-label="stars" class="octicon octicon-star" height="16" role="img" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+              23
+            </a>
+            <a href="/FabriceSalvaire/redmine-improved-theme/network" class="pinned-repo-meta muted-link">
+              <svg aria-label="forks" class="octicon octicon-repo-forked" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+              7
+            </a>
+        </p>
+      </div>
+    </li>
+    <li class="pinned-repo-item  p-3 mb-3 border border-gray-dark rounded-1 js-pinned-repo-list-item public source reorderable sortable-button-item">
+      <div class="pinned-repo-item-content">
+        <span class="d-block position-relative">
+            <input class="form-control" id="pinned-repo-reorder-56339242" name="repo_ids[]" value="56339242" type="hidden">
+            <span class="pinned-repository-handle js-pinned-repository-reorder float-left pr-2" title="Drag to reorder">
+              <svg aria-hidden="true" class="octicon octicon-grabber" height="16" version="1.1" viewBox="0 0 8 16" width="8"><path fill-rule="evenodd" d="M8 4v1H0V4h8zM0 8h8V7H0v1zm0 3h8v-1H0v1z"></path></svg>
+            </span>
+            <a href="/FabriceSalvaire/qt5-vector-graphic-shaders" class="text-bold">
+          <span class="repo js-repo" title="qt5-vector-graphic-shaders">qt5-vector-graphic-shaders</span>
+          </a>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="up"><svg aria-label="Move qt5-vector-graphic-shaders up" class="octicon octicon-chevron-up" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"></path></svg></button>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="down"><svg aria-label="Move qt5-vector-graphic-shaders down" class="octicon octicon-chevron-down" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"></path></svg></button>
+        </span>
+
+
+        <p class="pinned-repo-desc text-gray text-small d-block mt-2 mb-3">A Qt5 application to experiment vector graphic shaders</p>
+
+        <p class="mb-0 f6 text-gray">
+              <span class="repo-language-color pinned-repo-meta" style="background-color:#44a51c;"></span>
+            QML
+            <a href="/FabriceSalvaire/qt5-vector-graphic-shaders/stargazers" class="pinned-repo-meta muted-link">
+              <svg aria-label="stars" class="octicon octicon-star" height="16" role="img" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+              13
+            </a>
+            <a href="/FabriceSalvaire/qt5-vector-graphic-shaders/network" class="pinned-repo-meta muted-link">
+              <svg aria-label="forks" class="octicon octicon-repo-forked" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+              2
+            </a>
+        </p>
+      </div>
+    </li>
+    <li class="pinned-repo-item  p-3 mb-3 border border-gray-dark rounded-1 js-pinned-repo-list-item public source reorderable sortable-button-item">
+      <div class="pinned-repo-item-content">
+        <span class="d-block position-relative">
+            <input class="form-control" id="pinned-repo-reorder-9799023" name="repo_ids[]" value="9799023" type="hidden">
+            <span class="pinned-repository-handle js-pinned-repository-reorder float-left pr-2" title="Drag to reorder">
+              <svg aria-hidden="true" class="octicon octicon-grabber" height="16" version="1.1" viewBox="0 0 8 16" width="8"><path fill-rule="evenodd" d="M8 4v1H0V4h8zM0 8h8V7H0v1zm0 3h8v-1H0v1z"></path></svg>
+            </span>
+            <a href="/FabriceSalvaire/PyOpenGLng" class="text-bold">
+          <span class="repo js-repo" title="PyOpenGLng">PyOpenGLng</span>
+          </a>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="up"><svg aria-label="Move PyOpenGLng up" class="octicon octicon-chevron-up" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"></path></svg></button>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="down"><svg aria-label="Move PyOpenGLng down" class="octicon octicon-chevron-down" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"></path></svg></button>
+        </span>
+
+
+        <p class="pinned-repo-desc text-gray text-small d-block mt-2 mb-3">An OpenGL CFFI (and ctypes) binding for Python</p>
+
+        <p class="mb-0 f6 text-gray">
+              <span class="repo-language-color pinned-repo-meta" style="background-color:#3572A5;"></span>
+            Python
+            <a href="/FabriceSalvaire/PyOpenGLng/stargazers" class="pinned-repo-meta muted-link">
+              <svg aria-label="stars" class="octicon octicon-star" height="16" role="img" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+              7
+            </a>
+            <a href="/FabriceSalvaire/PyOpenGLng/network" class="pinned-repo-meta muted-link">
+              <svg aria-label="fork" class="octicon octicon-repo-forked" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+              1
+            </a>
+        </p>
+      </div>
+    </li>
+    <li class="pinned-repo-item  p-3 mb-3 border border-gray-dark rounded-1 js-pinned-repo-list-item public source reorderable sortable-button-item">
+      <div class="pinned-repo-item-content">
+        <span class="d-block position-relative">
+            <input class="form-control" id="pinned-repo-reorder-9799036" name="repo_ids[]" value="9799036" type="hidden">
+            <span class="pinned-repository-handle js-pinned-repository-reorder float-left pr-2" title="Drag to reorder">
+              <svg aria-hidden="true" class="octicon octicon-grabber" height="16" version="1.1" viewBox="0 0 8 16" width="8"><path fill-rule="evenodd" d="M8 4v1H0V4h8zM0 8h8V7H0v1zm0 3h8v-1H0v1z"></path></svg>
+            </span>
+            <a href="/FabriceSalvaire/PyDVI" class="text-bold">
+          <span class="repo js-repo" title="PyDVI">PyDVI</span>
+          </a>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="up"><svg aria-label="Move PyDVI up" class="octicon octicon-chevron-up" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"></path></svg></button>
+            <button type="button" class="btn btn-outline btn-sm show-on-focus sortable-button js-sortable-button right-0" data-direction="down"><svg aria-label="Move PyDVI down" class="octicon octicon-chevron-down" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"></path></svg></button>
+        </span>
+
+
+        <p class="pinned-repo-desc text-gray text-small d-block mt-2 mb-3">PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and pl…</p>
+
+        <p class="mb-0 f6 text-gray">
+              <span class="repo-language-color pinned-repo-meta" style="background-color:#3572A5;"></span>
+            Python
+            <a href="/FabriceSalvaire/PyDVI/stargazers" class="pinned-repo-meta muted-link">
+              <svg aria-label="stars" class="octicon octicon-star" height="16" role="img" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+              5
+            </a>
+            <a href="/FabriceSalvaire/PyDVI/network" class="pinned-repo-meta muted-link">
+              <svg aria-label="fork" class="octicon octicon-repo-forked" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+              1
+            </a>
+        </p>
+      </div>
+    </li>
+
+</ol>
+
 ## Python
 
 * [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 38 :star:</br>
