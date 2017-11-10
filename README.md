@@ -1,1 +1,1 @@
-# github-map
+# Summary of my projects on Github
