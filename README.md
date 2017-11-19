@@ -29,12 +29,6 @@
 
    Updated on 2017-11-10
 
-* [pyFinancialSimulator](https://github.com/FabriceSalvaire/pyFinancialSimulator)
-
-   A financial simulator written in Python
-
-   Updated on 2015-09-27
-
 * [python-interval-arithmetic](https://github.com/FabriceSalvaire/python-interval-arithmetic)
 
    A Python Interval Arithmetic Module 
@@ -173,28 +167,6 @@
 
    Updated on 2017-06-04
 
-## Python Music
-
-* [Musica](https://github.com/FabriceSalvaire/Musica)
-
-   Musica is a Python toolkit for computational music.
-
-   Updated on 2017-11-08
-
-* [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
-
-   Data for Musica
-
-   Updated on 2017-11-17
-
-## Python Pattern Drafting
-
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
-
-   Python implementation of the Valentina Pattern Making software
-
-   Updated on 2017-10-01
-
 ## Python Mechanic
 
 * [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot) 1 :star:</br>
@@ -217,7 +189,37 @@
 
    Updated on 2017-02-18
 
-## Python Application
+## Python Pattern Drafting
+
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
+
+   Python implementation of the Valentina Pattern Making software
+
+   Updated on 2017-10-01
+
+## Python Music
+
+* [Musica](https://github.com/FabriceSalvaire/Musica)
+
+   Musica is a Python toolkit for computational music.
+
+   Updated on 2017-11-08
+
+* [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
+
+   Data for Musica
+
+   Updated on 2017-11-17
+
+## Python Finance
+
+* [pyFinancialSimulator](https://github.com/FabriceSalvaire/pyFinancialSimulator)
+
+   A financial simulator written in Python
+
+   Updated on 2015-09-27
+
+## Python Application (PyQt5)
 
 * [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
 

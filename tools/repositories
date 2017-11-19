@@ -83,8 +83,6 @@ if args.make_map:
         'PyOpenGLng',
         'pyglfw-cffi',
         'python-interval-arithmetic',
-        #
-        'pyFinancialSimulator',
     ))
 
     content.h2('Python Tools for Developers')
@@ -132,17 +130,6 @@ if args.make_map:
         'PySpice',
     ))
 
-    content.h2('Python Music')
-    content.list((
-        'Musica',
-        'Musica-data',
-    ))
-
-    content.h2('Python Pattern Drafting')
-    content.list((
-        'PyValentina',
-    ))
-
     content.h2('Python Mechanic')
     content.list((
         'linear-delta-robot',
@@ -154,7 +141,23 @@ if args.make_map:
         'simple-morpho-math',
     ))
 
-    content.h2('Python Application')
+    content.h2('Python Pattern Drafting')
+    content.list((
+        'PyValentina',
+    ))
+
+    content.h2('Python Music')
+    content.list((
+        'Musica',
+        'Musica-data',
+    ))
+
+    content.h2('Python Finance')
+    content.list((
+        'pyFinancialSimulator',
+    ))
+
+    content.h2('Python Application (PyQt5)')
     content.list((
         'Biblio',
         'LaptopControlPanel',
