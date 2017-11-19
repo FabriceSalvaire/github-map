@@ -96,13 +96,15 @@ if args.make_map:
         # 'python-project-template',
     ))
 
-    content.h2('Python Application')
+    content.h2('Sphinx')
     content.list((
-        'Biblio',
-        'LaptopControlPanel',
-        'elbrea',
-        'monitor-server',
-        'pygeoportail',
+        'AutoSphinx',
+        'pygments-lexer',
+        'sphinx-css3image',
+        'sphinx-getthecode',
+        'sphinx-lilypond',
+        'sphinx-microdata',
+        'sphinx-sass-theme',
     ))
 
     content.h2('Python Web Application')
@@ -111,16 +113,16 @@ if args.make_map:
         'grouped-purchase-order',
     ))
 
-    content.h2('Python Web Tools')
-    content.list((
-        'c2c-api-client',
-    ))
-
     content.h2('DjangoCMS')
     content.list((
         'cmsplugin-getthecode',
         'cmsplugin-markup-language',
         'cmsplugin-svg',
+    ))
+
+    content.h2('Python Web Tools')
+    content.list((
+        'c2c-api-client',
     ))
 
     content.h2('Python Electronic')
@@ -152,6 +154,15 @@ if args.make_map:
         'simple-morpho-math',
     ))
 
+    content.h2('Python Application')
+    content.list((
+        'Biblio',
+        'LaptopControlPanel',
+        'elbrea',
+        'monitor-server',
+        'pygeoportail',
+    ))
+
     content.h2('Python Outdated')
     content.list((
         'PyLibTiff', # outdated ???
@@ -161,17 +172,6 @@ if args.make_map:
     content.list((
         'css-demo',
         'redmine-improved-theme',
-    ))
-
-    content.h2('Sphinx')
-    content.list((
-        'AutoSphinx',
-        'pygments-lexer',
-        'sphinx-css3image',
-        'sphinx-getthecode',
-        'sphinx-lilypond',
-        'sphinx-microdata',
-        'sphinx-sass-theme',
     ))
 
     content.h2('Qt')
