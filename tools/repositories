@@ -72,7 +72,11 @@ if args.make_map:
     content = Content(repositories)
     content.h1('Summary of my projects on Github')
 
-    content.h2('Python')
+    content += '\n'
+    content += 'https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png'
+    content += '\n'
+
+    Content.h2('Python')
     content.list((
         'Biblio',
         'CodeReview',
@@ -80,7 +84,7 @@ if args.make_map:
         'Musica',
         'Musica-data',
         'PyDVI',
-        'PyLibTiff',
+        'PyLibTiff', # outdated ???
         'PyMetrology',
         'PyOpenGLng',
         'PyValentina',
@@ -198,9 +202,11 @@ if args.make_map:
     # F 'normalize.css',
     # F 'pygit2',
     # F 'vpo2',
+
     ## F 'mupdf-v1.3',
     ## F 'simavr',
     ## F 'swalign',
+
     content.list(repositories.fork_names)
 
     with open('README.md', 'w') as fh:

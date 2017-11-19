@@ -1,6 +1,8 @@
 
 # Summary of my projects on Github
 
+https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png
+
 ## Python
 
 * [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 44 :star:</br>
