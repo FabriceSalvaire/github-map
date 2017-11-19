@@ -1,14 +1,29 @@
 #! /usr/bin/env python3
 
 ####################################################################################################
+#
+# Copyright (C) 2017 Salvaire Fabrice
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+####################################################################################################
+
+####################################################################################################
 
 import argparse
-from datetime import datetime
-import json
-import os
 
-# http://pygithub.readthedocs.io/en/latest/
-from github import Github
+from Repositories import *
 
 ####################################################################################################
 
@@ -25,243 +40,11 @@ parser.add_argument('--make-map',
 parser.add_argument('--list',
                     action='store_true', default=False,
                     help='')
+parser.add_argument('--star',
+                    action='store_true', default=False,
+                    help='make star plot')
 
 args = parser.parse_args()
-
-####################################################################################################
-
-class Repository:
-
-    ##############################################
-
-    def __init__(self, **kwargs):
-
-        self._keys = kwargs.keys()
-        for key, value in kwargs.items():
-            setattr(self, key, value)
-
-        self.listed = False
-
-    ##############################################
-
-    @staticmethod
-    def _python_to_json(x):
-
-        if isinstance(x, datetime):
-            print('>', x, str(x))
-            return str(x)
-        else:
-            return x
-
-    ##############################################
-
-    def to_json(self):
-
-        return {key:self._python_to_json(getattr(self, key))
-                for key in self._keys}
-
-    ##############################################
-
-    def to_markdown(self):
-
-        self.listed = True
-
-        content = '\n'
-        content += '* [{0.name}]({0.html_url})'.format(self)
-        if self.stargazers_count:
-            content += ' {0.stargazers_count} :star:</br>'.format(self)
-        content += '\n\n'
-        content += '   {0.description}\n\n'.format(self)
-        date = datetime.strptime(self.updated_at, '%Y-%m-%d %H:%M:%S').strftime('%Y-%m-%d')
-        content += '   Updated on {}\n'.format(date)
-
-        # {0.language}</br>
-        # content += '\n'
-
-        return content
-
-####################################################################################################
-
-class Repositories:
-
-    ##############################################
-
-    def __init__(self):
-
-        self._repositories = {}
-
-    ##############################################
-
-    def upload(self):
-
-        token_path = os.path.expanduser('~/.github-token')
-        with open(token_path, 'r') as f:
-            token = f.readline().strip()
-            # token = ''
-
-        print('Start upload')
-        github = Github(login_or_token=token)
-
-        for repository in github.get_user().get_repos():
-            print('  {.name}'.format(repository))
-            # http://pygithub.readthedocs.io/en/latest/github_objects/Repository.html
-            # https://developer.github.com/v3/repos/
-            keys = (
-                #! 'topics',
-                'created_at',
-                'description',
-                'fork',
-                'forks_count',
-                'full_name',
-                'html_url',
-                'language',
-                'name',
-                'network_count',
-                'private',
-                'pushed_at',
-                'source',
-                'stargazers_count',
-                'subscribers_count',
-                'updated_at',
-                'watchers_count',
-            )
-            kwargs = {key:getattr(repository, key) for key in keys}
-            source = kwargs['source']
-            if source is not None:
-                kwargs['source'] = source.full_name
-            repository_data = Repository(**kwargs)
-            self._repositories[repository_data.name] = repository_data
-        print('Upload done')
-
-    ##############################################
-
-    def save(self, json_path):
-
-        print('Write {}'.format(json_path))
-        data = [repository.to_json() for repository in self._repositories.values()]
-        print(data)
-        with open(json_path, 'w') as fh:
-            json.dump(data, fh, indent=4, sort_keys=True)
-
-    ##############################################
-
-    def load(self, json_path):
-
-        print('Load {}'.format(json_path))
-        with open(json_path, 'r') as fh:
-            data = json.load(fh)
-        for repository_data in data:
-            repository_data = Repository(**repository_data)
-            self._repositories[repository_data.name] = repository_data
-
-    ##############################################
-
-    @property
-    def names(self):
-        return sorted(self._repositories.keys())
-
-    ##############################################
-
-    def __iter__(self):
-
-        # return iter(self._repositories.values())
-        for name in self.names:
-            repository = self._repositories[name]
-            yield repository
-
-    ##############################################
-
-    def __getitem__(self, name):
-        return self._repositories[name]
-
-    ##############################################
-
-    @property
-    def forks(self):
-
-        for repository in self:
-            if repository.fork:
-                yield repository
-
-    ##############################################
-
-    @property
-    def fork_names(self):
-
-        for repository in self.forks:
-            yield repository.name
-
-    ##############################################
-
-    def by_star(self, names):
-
-        repositories = [self._repositories[name] for name in sorted(names)]
-        get_key = lambda x: x.stargazers_count # '{:3}{}'.format(x.stargazers_count, x.name)
-        return sorted(repositories, key=get_key, reverse=True)
-
-    ##############################################
-
-    def to_markdown(self, names):
-
-        return ''.join([repository.to_markdown() for repository in self.by_star(names)])
-
-    ##############################################
-
-    def missed(self):
-
-        for repository in self:
-            if not repository.listed:
-                yield repository
-
-####################################################################################################
-
-class Content:
-
-    ##############################################
-
-    def __init__(self, repositories):
-
-        self._repositories = repositories
-        self._content = ''
-
-    ##############################################
-
-    def __iadd__(self, content):
-
-        self._content += content
-        return self
-
-    ##############################################
-
-    def __str__(self):
-
-        return str(self._content)
-
-    ##############################################
-
-    def _title(self, level, title):
-        self._content += '\n{} {}\n'.format('#'*level, title)
-
-    ##############################################
-
-    def h1(self, title):
-        self._title(1, title)
-
-    ##############################################
-
-    def h2(self, title):
-        self._title(2, title)
-
-    ##############################################
-
-    def h3(self, title):
-        self._title(3, title)
-
-    ##############################################
-
-    def list(self, names):
-
-        self += self._repositories.to_markdown(names)
 
 ####################################################################################################
 
@@ -276,6 +59,13 @@ if args.list:
     for repository in repositories:
         fork = 'F' if repository.fork else ' '
         print("{} '{}',".format(fork, repository.name))
+
+if args.star:
+    figure, axe = Repository.star_figure(1) # 2 is by project
+    for repository in repositories:
+        repository.plot_stars(axe) # Fixme: better ???
+        repository.plot_stars()
+    Repository.save_figure(figure, 'all')
 
 if args.make_map:
 
