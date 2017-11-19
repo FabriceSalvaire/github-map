@@ -167,7 +167,7 @@
 
    Updated on 2017-06-04
 
-## Python Mechanic
+## Python for Mechanic
 
 * [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot) 1 :star:</br>
 
@@ -175,7 +175,7 @@
 
    Updated on 2017-02-18
 
-## Python Image Processing
+## Python for Image Processing
 
 * [mamba-image](https://github.com/FabriceSalvaire/mamba-image)
 
@@ -189,7 +189,7 @@
 
    Updated on 2017-02-18
 
-## Python Pattern Drafting
+## Python for Pattern Drafting
 
 * [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
 
@@ -197,7 +197,7 @@
 
    Updated on 2017-10-01
 
-## Python Music
+## Python for Music
 
 * [Musica](https://github.com/FabriceSalvaire/Musica)
 
@@ -211,7 +211,7 @@
 
    Updated on 2017-11-17
 
-## Python Finance
+## Python for Finance
 
 * [pyFinancialSimulator](https://github.com/FabriceSalvaire/pyFinancialSimulator)
 
@@ -219,7 +219,7 @@
 
    Updated on 2015-09-27
 
-## Python Application (PyQt5)
+## Python Applications (PyQt5)
 
 * [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
 

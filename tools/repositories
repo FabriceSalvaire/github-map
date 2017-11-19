@@ -130,34 +130,34 @@ if args.make_map:
         'PySpice',
     ))
 
-    content.h2('Python Mechanic')
+    content.h2('Python for Mechanic')
     content.list((
         'linear-delta-robot',
     ))
 
-    content.h2('Python Image Processing')
+    content.h2('Python for Image Processing')
     content.list((
         'mamba-image',
         'simple-morpho-math',
     ))
 
-    content.h2('Python Pattern Drafting')
+    content.h2('Python for Pattern Drafting')
     content.list((
         'PyValentina',
     ))
 
-    content.h2('Python Music')
+    content.h2('Python for Music')
     content.list((
         'Musica',
         'Musica-data',
     ))
 
-    content.h2('Python Finance')
+    content.h2('Python for Finance')
     content.list((
         'pyFinancialSimulator',
     ))
 
-    content.h2('Python Application (PyQt5)')
+    content.h2('Python Applications (PyQt5)')
     content.list((
         'Biblio',
         'LaptopControlPanel',
