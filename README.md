@@ -147,7 +147,7 @@
 
    Updated on 2017-02-18
 
-## Python Electronic
+## Python for Electronic
 
 * [PySpice](https://github.com/FabriceSalvaire/PySpice) 68 :star:</br>
 
