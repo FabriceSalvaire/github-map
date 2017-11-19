@@ -94,7 +94,7 @@ if args.make_map:
         # 'python-project-template',
     ))
 
-    content.h2('Sphinx')
+    content.h3('Sphinx Documentation Generator')
     content.list((
         'AutoSphinx',
         'pygments-lexer',
@@ -111,7 +111,7 @@ if args.make_map:
         'grouped-purchase-order',
     ))
 
-    content.h2('DjangoCMS')
+    content.h3('DjangoCMS')
     content.list((
         'cmsplugin-getthecode',
         'cmsplugin-markup-language',

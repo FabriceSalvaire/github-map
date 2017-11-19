@@ -61,7 +61,7 @@
 
    Updated on 2017-11-10
 
-## Sphinx
+### Sphinx Documentation Generator
 
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
 
@@ -119,7 +119,7 @@
 
    Updated on 2016-03-13
 
-## DjangoCMS
+### DjangoCMS
 
 * [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 3 :star:</br>
 
