@@ -74,7 +74,6 @@ if args.make_map:
 
     content.h2('Python')
     content.list((
-        'AutoSphinx',
         'Biblio',
         'CodeReview',
         'LaptopControlPanel',
@@ -138,6 +137,7 @@ if args.make_map:
 
     content.h2('Sphinx')
     content.list((
+        'AutoSphinx',
         'sphinx-css3image',
         'sphinx-getthecode',
         'sphinx-lilypond',

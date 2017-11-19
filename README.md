@@ -39,12 +39,6 @@
 
    Updated on 2017-11-18
 
-* [AutoSphinx](https://github.com/FabriceSalvaire/AutoSphinx)
-
-   AutoSphinx is Sphinx add-ons to generate documentation for Python projects
-
-   Updated on 2017-11-11
-
 * [Biblio](https://github.com/FabriceSalvaire/Biblio)
 
    An experimental PDF document manager.
@@ -238,6 +232,12 @@
    Microdata semantic markups support for Sphinx Documentation Generator.
 
    Updated on 2017-02-18
+
+* [AutoSphinx](https://github.com/FabriceSalvaire/AutoSphinx)
+
+   AutoSphinx is Sphinx add-ons to generate documentation for Python projects
+
+   Updated on 2017-11-11
 
 * [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
 
