@@ -3,23 +3,23 @@
 
 ## Python
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 38 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 44 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-11-10
+   Updated on 2017-11-18
 
-* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
+* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 6 :star:</br>
 
    An OpenGL CFFI (and ctypes) binding for Python
 
-   Updated on 2017-07-24
+   Updated on 2017-11-18
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 5 :star:</br>
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 4 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   Updated on 2017-02-18
+   Updated on 2017-11-18
 
 * [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
 
@@ -27,17 +27,23 @@
 
    Updated on 2016-10-25
 
-* [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 3 :star:</br>
-
-   A Python wrapper for GLFW based on CFFI
-
-   Updated on 2017-02-18
-
 * [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
    Updated on 2017-10-01
+
+* [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 2 :star:</br>
+
+   A Python wrapper for GLFW based on CFFI
+
+   Updated on 2017-11-18
+
+* [AutoSphinx](https://github.com/FabriceSalvaire/AutoSphinx)
+
+   AutoSphinx is Sphinx add-ons to generate documentation for Python projects
+
+   Updated on 2017-11-11
 
 * [Biblio](https://github.com/FabriceSalvaire/Biblio)
 
@@ -55,7 +61,7 @@
 
    Data for Musica
 
-   Updated on 2017-11-06
+   Updated on 2017-11-17
 
 * [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
 
@@ -81,6 +87,12 @@
 
    Updated on 2017-05-20
 
+* [github-map](https://github.com/FabriceSalvaire/github-map)
+
+   A summary of my projects on Github
+
+   Updated on 2017-11-10
+
 * [monitor-server](https://github.com/FabriceSalvaire/monitor-server)
 
    PyQt applet to monitor an OVH Virtual Private Server
@@ -105,9 +117,21 @@
 
    Updated on 2017-02-18
 
-* [python-arithmetic-interval](https://github.com/FabriceSalvaire/python-arithmetic-interval)
+* [python-interval-arithmetic](https://github.com/FabriceSalvaire/python-interval-arithmetic)
 
-   A Python Arithmetic Interval Module 
+   A Python Interval Arithmetic Module 
+
+   Updated on 2017-11-11
+
+* [python-memo](https://github.com/FabriceSalvaire/python-memo)
+
+   A Python 3 memo
+
+   Updated on 2017-11-18
+
+* [python-package-template](https://github.com/FabriceSalvaire/python-package-template)
+
+   A Python template package
 
    Updated on 2017-11-10
 
@@ -147,11 +171,11 @@
 
 ## Python Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 66 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 68 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2017-11-08
+   Updated on 2017-11-18
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
@@ -193,7 +217,7 @@
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   Updated on 2017-11-03
+   Updated on 2017-11-18
 
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
@@ -235,11 +259,11 @@
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 13 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 12 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2017-10-25
+   Updated on 2017-11-18
 
 ## Others
 
@@ -402,6 +426,12 @@
    simavr is a lean, mean and hackable AVR simulator for linux & OSX
 
    Updated on 2017-05-20
+
+* [sphinx-sitemap](https://github.com/FabriceSalvaire/sphinx-sitemap)
+
+   Sphinx extension to silently generate a sitemap for HTML builds
+
+   Updated on 2017-11-18
 
 * [swalign](https://github.com/FabriceSalvaire/swalign)
 

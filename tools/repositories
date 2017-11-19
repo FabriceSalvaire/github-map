@@ -284,6 +284,7 @@ if args.make_map:
 
     content.h2('Python')
     content.list((
+        'AutoSphinx',
         'Biblio',
         'CodeReview',
         'LaptopControlPanel',
@@ -296,12 +297,15 @@ if args.make_map:
         'PyValentina',
         'c2c-api-client',
         'elbrea',
+        'github-map',
         'monitor-server',
         'pyFinancialSimulator',
         'pygeoportail',
         'pyglfw-cffi',
         'pygments-lexer',
-        'python-arithmetic-interval',
+        'python-interval-arithmetic',
+        'python-memo',
+        'python-package-template',
         # 'python-project-template',
     ))
 
