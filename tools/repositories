@@ -76,36 +76,44 @@ if args.make_map:
     content += '![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)'
     content += '\n'
 
-    content.h2('Python')
+    content.h2('Python Packages')
     content.list((
-        'Biblio',
-        'CodeReview',
-        'LaptopControlPanel',
-        'Musica',
-        'Musica-data',
         'PyDVI',
-        'PyLibTiff', # outdated ???
         'PyMetrology',
         'PyOpenGLng',
-        'PyValentina',
-        'c2c-api-client',
-        'elbrea',
-        'github-map',
-        'monitor-server',
-        'pyFinancialSimulator',
-        'pygeoportail',
         'pyglfw-cffi',
-        'pygments-lexer',
         'python-interval-arithmetic',
+        #
+        'pyFinancialSimulator',
+    ))
+
+    content.h2('Python Tools for Developers')
+    content.list((
+        'CodeReview',
+        'github-map',
         'python-memo',
         'python-package-template',
         # 'python-project-template',
+    ))
+
+    content.h2('Python Application')
+    content.list((
+        'Biblio',
+        'LaptopControlPanel',
+        'elbrea',
+        'monitor-server',
+        'pygeoportail',
     ))
 
     content.h2('Python Web Application')
     content.list((
         'bleau-database',
         'grouped-purchase-order',
+    ))
+
+    content.h2('Python Web Tools')
+    content.list((
+        'c2c-api-client',
     ))
 
     content.h2('DjangoCMS')
@@ -122,6 +130,17 @@ if args.make_map:
         'PySpice',
     ))
 
+    content.h2('Python Music')
+    content.list((
+        'Musica',
+        'Musica-data',
+    ))
+
+    content.h2('Python Pattern Drafting')
+    content.list((
+        'PyValentina',
+    ))
+
     content.h2('Python Mechanic')
     content.list((
         'linear-delta-robot',
@@ -133,6 +152,11 @@ if args.make_map:
         'simple-morpho-math',
     ))
 
+    content.h2('Python Outdated')
+    content.list((
+        'PyLibTiff', # outdated ???
+    ))
+
     content.h2('Web')
     content.list((
         'css-demo',
@@ -142,6 +166,7 @@ if args.make_map:
     content.h2('Sphinx')
     content.list((
         'AutoSphinx',
+        'pygments-lexer',
         'sphinx-css3image',
         'sphinx-getthecode',
         'sphinx-lilypond',

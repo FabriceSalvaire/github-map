@@ -3,13 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-## Python
-
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 44 :star:</br>
-
-   CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
-
-   Updated on 2017-11-18
+## Python Packages
 
 * [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 6 :star:</br>
 
@@ -23,47 +17,11 @@
 
    Updated on 2017-11-18
 
-* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
-
-   LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
-
-   Updated on 2016-10-25
-
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
-
-   Python implementation of the Valentina Pattern Making software
-
-   Updated on 2017-10-01
-
 * [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 2 :star:</br>
 
    A Python wrapper for GLFW based on CFFI
 
    Updated on 2017-11-18
-
-* [Biblio](https://github.com/FabriceSalvaire/Biblio)
-
-   An experimental PDF document manager.
-
-   Updated on 2016-01-20
-
-* [Musica](https://github.com/FabriceSalvaire/Musica)
-
-   Musica is a Python toolkit for computational music.
-
-   Updated on 2017-11-08
-
-* [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
-
-   Data for Musica
-
-   Updated on 2017-11-17
-
-* [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
-
-   PyLibTiff is a Python binding to the TIFF reference library libtiff.
-
-   Updated on 2014-01-18
 
 * [PyMetrology](https://github.com/FabriceSalvaire/PyMetrology)
 
@@ -71,53 +29,31 @@
 
    Updated on 2017-11-10
 
-* [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
-
-   A Python client for the camptocamp.org REST API
-
-   Updated on 2017-02-18
-
-* [elbrea](https://github.com/FabriceSalvaire/elbrea)
-
-   R&D project featuring image processing and a xournal clone
-
-   Updated on 2017-05-20
-
-* [github-map](https://github.com/FabriceSalvaire/github-map)
-
-   A summary of my projects on Github
-
-   Updated on 2017-11-10
-
-* [monitor-server](https://github.com/FabriceSalvaire/monitor-server)
-
-   PyQt applet to monitor an OVH Virtual Private Server
-
-   Updated on 2014-11-28
-
 * [pyFinancialSimulator](https://github.com/FabriceSalvaire/pyFinancialSimulator)
 
    A financial simulator written in Python
 
    Updated on 2015-09-27
 
-* [pygeoportail](https://github.com/FabriceSalvaire/pygeoportail)
-
-   Géoportail Python client
-
-   Updated on 2015-11-21
-
-* [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
-
-   Additional Pygments Lexer
-
-   Updated on 2017-02-18
-
 * [python-interval-arithmetic](https://github.com/FabriceSalvaire/python-interval-arithmetic)
 
    A Python Interval Arithmetic Module 
 
    Updated on 2017-11-11
+
+## Python Tools for Developers
+
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 44 :star:</br>
+
+   CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
+
+   Updated on 2017-11-18
+
+* [github-map](https://github.com/FabriceSalvaire/github-map)
+
+   A summary of my projects on Github
+
+   Updated on 2017-11-10
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -130,6 +66,38 @@
    A Python template package
 
    Updated on 2017-11-10
+
+## Python Application
+
+* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
+
+   LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
+
+   Updated on 2016-10-25
+
+* [Biblio](https://github.com/FabriceSalvaire/Biblio)
+
+   An experimental PDF document manager.
+
+   Updated on 2016-01-20
+
+* [elbrea](https://github.com/FabriceSalvaire/elbrea)
+
+   R&D project featuring image processing and a xournal clone
+
+   Updated on 2017-05-20
+
+* [monitor-server](https://github.com/FabriceSalvaire/monitor-server)
+
+   PyQt applet to monitor an OVH Virtual Private Server
+
+   Updated on 2014-11-28
+
+* [pygeoportail](https://github.com/FabriceSalvaire/pygeoportail)
+
+   Géoportail Python client
+
+   Updated on 2015-11-21
 
 ## Python Web Application
 
@@ -144,6 +112,14 @@
    A Django web application to manage grouped purchase order.
 
    Updated on 2016-03-13
+
+## Python Web Tools
+
+* [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
+
+   A Python client for the camptocamp.org REST API
+
+   Updated on 2017-02-18
 
 ## DjangoCMS
 
@@ -185,6 +161,28 @@
 
    Updated on 2017-06-04
 
+## Python Music
+
+* [Musica](https://github.com/FabriceSalvaire/Musica)
+
+   Musica is a Python toolkit for computational music.
+
+   Updated on 2017-11-08
+
+* [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
+
+   Data for Musica
+
+   Updated on 2017-11-17
+
+## Python Pattern Drafting
+
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
+
+   Python implementation of the Valentina Pattern Making software
+
+   Updated on 2017-10-01
+
 ## Python Mechanic
 
 * [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot) 1 :star:</br>
@@ -206,6 +204,14 @@
    A simple mathematical morphology library
 
    Updated on 2017-02-18
+
+## Python Outdated
+
+* [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
+
+   PyLibTiff is a Python binding to the TIFF reference library libtiff.
+
+   Updated on 2014-01-18
 
 ## Web
 
@@ -240,6 +246,12 @@
    AutoSphinx is Sphinx add-ons to generate documentation for Python projects
 
    Updated on 2017-11-11
+
+* [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
+
+   Additional Pygments Lexer
+
+   Updated on 2017-02-18
 
 * [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
 
