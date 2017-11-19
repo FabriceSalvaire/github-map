@@ -1,7 +1,7 @@
 
 # Summary of my projects on Github
 
-https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png
+![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
 ## Python
 

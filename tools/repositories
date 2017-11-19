@@ -73,10 +73,10 @@ if args.make_map:
     content.h1('Summary of my projects on Github')
 
     content += '\n'
-    content += 'https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png'
+    content += '![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)'
     content += '\n'
 
-    Content.h2('Python')
+    content.h2('Python')
     content.list((
         'Biblio',
         'CodeReview',
