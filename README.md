@@ -67,37 +67,49 @@
 
    Updated on 2017-11-10
 
-## Python Application
+## Sphinx
 
-* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
+* [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
 
-   LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
+   This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
 
-   Updated on 2016-10-25
+   Updated on 2017-02-18
 
-* [Biblio](https://github.com/FabriceSalvaire/Biblio)
+* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 1 :star:</br>
 
-   An experimental PDF document manager.
+   Microdata semantic markups support for Sphinx Documentation Generator.
 
-   Updated on 2016-01-20
+   Updated on 2017-02-18
 
-* [elbrea](https://github.com/FabriceSalvaire/elbrea)
+* [AutoSphinx](https://github.com/FabriceSalvaire/AutoSphinx)
 
-   R&D project featuring image processing and a xournal clone
+   AutoSphinx is Sphinx add-ons to generate documentation for Python projects
 
-   Updated on 2017-05-20
+   Updated on 2017-11-11
 
-* [monitor-server](https://github.com/FabriceSalvaire/monitor-server)
+* [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
 
-   PyQt applet to monitor an OVH Virtual Private Server
+   Additional Pygments Lexer
 
-   Updated on 2014-11-28
+   Updated on 2017-02-18
 
-* [pygeoportail](https://github.com/FabriceSalvaire/pygeoportail)
+* [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
 
-   Géoportail Python client
+   This plugin provides an enhanced literalinclude directive for Sphinx Documentation Generator.
 
-   Updated on 2015-11-21
+   Updated on 2017-02-18
+
+* [sphinx-lilypond](https://github.com/FabriceSalvaire/sphinx-lilypond)
+
+   Sphinx extension for Lylipond
+
+   Updated on 2017-10-11
+
+* [sphinx-sass-theme](https://github.com/FabriceSalvaire/sphinx-sass-theme)
+
+   A SASS theme for sphinx forked from Read The Docs theme.
+
+   Updated on 2017-02-18
 
 ## Python Web Application
 
@@ -112,14 +124,6 @@
    A Django web application to manage grouped purchase order.
 
    Updated on 2016-03-13
-
-## Python Web Tools
-
-* [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
-
-   A Python client for the camptocamp.org REST API
-
-   Updated on 2017-02-18
 
 ## DjangoCMS
 
@@ -140,6 +144,14 @@
    Markup language (RST) plugin for Django CMS
 
    Updated on 2017-02-23
+
+## Python Web Tools
+
+* [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
+
+   A Python client for the camptocamp.org REST API
+
+   Updated on 2017-02-18
 
 ## Python Electronic
 
@@ -205,6 +217,38 @@
 
    Updated on 2017-02-18
 
+## Python Application
+
+* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
+
+   LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
+
+   Updated on 2016-10-25
+
+* [Biblio](https://github.com/FabriceSalvaire/Biblio)
+
+   An experimental PDF document manager.
+
+   Updated on 2016-01-20
+
+* [elbrea](https://github.com/FabriceSalvaire/elbrea)
+
+   R&D project featuring image processing and a xournal clone
+
+   Updated on 2017-05-20
+
+* [monitor-server](https://github.com/FabriceSalvaire/monitor-server)
+
+   PyQt applet to monitor an OVH Virtual Private Server
+
+   Updated on 2014-11-28
+
+* [pygeoportail](https://github.com/FabriceSalvaire/pygeoportail)
+
+   Géoportail Python client
+
+   Updated on 2015-11-21
+
 ## Python Outdated
 
 * [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
@@ -224,50 +268,6 @@
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
    HTML pages to test various CSS settings and based on Bootstrap, Jinja2, SASS and Gulp
-
-   Updated on 2017-02-18
-
-## Sphinx
-
-* [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
-
-   This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
-
-   Updated on 2017-02-18
-
-* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 1 :star:</br>
-
-   Microdata semantic markups support for Sphinx Documentation Generator.
-
-   Updated on 2017-02-18
-
-* [AutoSphinx](https://github.com/FabriceSalvaire/AutoSphinx)
-
-   AutoSphinx is Sphinx add-ons to generate documentation for Python projects
-
-   Updated on 2017-11-11
-
-* [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
-
-   Additional Pygments Lexer
-
-   Updated on 2017-02-18
-
-* [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
-
-   This plugin provides an enhanced literalinclude directive for Sphinx Documentation Generator.
-
-   Updated on 2017-02-18
-
-* [sphinx-lilypond](https://github.com/FabriceSalvaire/sphinx-lilypond)
-
-   Sphinx extension for Lylipond
-
-   Updated on 2017-10-11
-
-* [sphinx-sass-theme](https://github.com/FabriceSalvaire/sphinx-sass-theme)
-
-   A SASS theme for sphinx forked from Read The Docs theme.
 
    Updated on 2017-02-18
 
