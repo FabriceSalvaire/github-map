@@ -9,13 +9,13 @@
 
    An OpenGL CFFI (and ctypes) binding for Python
 
-   Updated on 2017-11-18
+   Updated on 2017-11-19
 
 * [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 4 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   Updated on 2017-11-18
+   Updated on 2017-11-19
 
 * [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 2 :star:</br>
 
@@ -37,17 +37,17 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 44 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 48 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-11-18
+   Updated on 2017-11-21
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
-   A summary of my projects on Github
+   A summary of my projects on Github (using API and Python)
 
-   Updated on 2017-11-10
+   Updated on 2017-11-19
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -83,9 +83,9 @@
 
 * [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
 
-   Additional Pygments Lexer
+   Additional Pygments Lexer (m4, m4pic, SPICE)
 
-   Updated on 2017-02-18
+   Updated on 2017-11-19
 
 * [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
 
@@ -127,6 +127,12 @@
 
    Updated on 2017-07-05
 
+* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
+
+   MathJax Plugin for Django CMS 
+
+   Updated on 2016-10-26
+
 * [cmsplugin-getthecode](https://github.com/FabriceSalvaire/cmsplugin-getthecode)
 
    Django CMS plugin to show source code
@@ -139,6 +145,18 @@
 
    Updated on 2017-02-23
 
+* [cmsplugin-rst](https://github.com/FabriceSalvaire/cmsplugin-rst)
+
+   Restructured Text (RST) Plugin for Django CMS
+
+   Updated on 2017-11-21
+
+* [django-cms-boilerplate](https://github.com/FabriceSalvaire/django-cms-boilerplate)
+
+   A Django CMS Boilerplate forked from aldryn-boilerplate-bootstrap3.
+
+   Updated on 2017-11-21
+
 ## Python Web Tools
 
 * [c2c-api-client](https://github.com/FabriceSalvaire/c2c-api-client)
@@ -149,23 +167,23 @@
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 68 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 69 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2017-11-18
+   Updated on 2017-11-19
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
    PyResistorColorCode is a Python module that provides some tools to manage IEC 60062 marking codes for resistors.
 
-   Updated on 2017-05-02
+   Updated on 2017-11-21
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator)
 
    CPU Simulator written in Python
 
-   Updated on 2017-06-04
+   Updated on 2017-11-20
 
 ## Python for Mechanic
 
@@ -181,13 +199,13 @@
 
    Unofficial repository for http://www.mamba-image.org
 
-   Updated on 2015-01-27
+   Updated on 2017-11-21
 
 * [simple-morpho-math](https://github.com/FabriceSalvaire/simple-morpho-math)
 
    A simple mathematical morphology library
 
-   Updated on 2017-02-18
+   Updated on 2017-11-21
 
 ## Python for Pattern Drafting
 
@@ -195,7 +213,7 @@
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2017-10-01
+   Updated on 2017-11-21
 
 ## Python for Music
 
@@ -219,19 +237,27 @@
 
    Updated on 2015-09-27
 
+## Python for bioinformatics
+
+* [swalign](https://github.com/FabriceSalvaire/swalign)
+
+   Smith-Waterman local aligner
+
+   Updated on 2017-11-21
+
 ## Python Applications (PyQt5)
 
 * [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
 
    LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
 
-   Updated on 2016-10-25
+   Updated on 2017-11-21
 
 * [Biblio](https://github.com/FabriceSalvaire/Biblio)
 
-   An experimental PDF document manager.
+   An experimental PDF document manager. 
 
-   Updated on 2016-01-20
+   Updated on 2017-11-21
 
 * [elbrea](https://github.com/FabriceSalvaire/elbrea)
 
@@ -243,13 +269,13 @@
 
    PyQt applet to monitor an OVH Virtual Private Server
 
-   Updated on 2014-11-28
+   Updated on 2017-11-21
 
 * [pygeoportail](https://github.com/FabriceSalvaire/pygeoportail)
 
    Géoportail Python client
 
-   Updated on 2015-11-21
+   Updated on 2017-11-21
 
 ## Python Outdated
 
@@ -257,7 +283,7 @@
 
    PyLibTiff is a Python binding to the TIFF reference library libtiff.
 
-   Updated on 2014-01-18
+   Updated on 2017-11-21
 
 ## Web
 
@@ -289,6 +315,12 @@
 
    Updated on 2017-09-15
 
+* [mupdf-v1.3](https://github.com/FabriceSalvaire/mupdf-v1.3)
+
+   CMake build with a SWIG Python Wrapper
+
+   Updated on 2017-11-21
+
 ## Tools
 
 * [tex-calendar](https://github.com/FabriceSalvaire/tex-calendar)
@@ -309,7 +341,7 @@
 
    None
 
-   Updated on 2017-09-18
+   Updated on 2017-11-21
 
 * [copr-xyce](https://github.com/FabriceSalvaire/copr-xyce)
 
@@ -318,6 +350,12 @@
    Updated on 2017-09-18
 
 ## Talks
+
+* [euroscipy_proceedings](https://github.com/FabriceSalvaire/euroscipy_proceedings)
+
+   Tools used to generate the SciPy conference proceedings
+
+   Updated on 2017-11-21
 
 * [pyconfr-2014](https://github.com/FabriceSalvaire/pyconfr-2014)
 
@@ -329,7 +367,7 @@
 
    PyParis 2017 Talk — Circuit Simulation using Python 
 
-   Updated on 2017-06-04
+   Updated on 2017-11-21
 
 ## Outdated
 
@@ -337,15 +375,9 @@
 
    libfprint v0.5.0 with a wrapper driver that uses the proprietary libbsapi from Authentec.
 
-   Updated on 2016-03-01
+   Updated on 2017-11-21
 
 ## Contributed
-
-* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
-
-   MathJax Plugin for Django CMS 
-
-   Updated on 2016-10-26
 
 * [aldryn-newsblog](https://github.com/FabriceSalvaire/aldryn-newsblog)
 
@@ -359,23 +391,11 @@
 
    Updated on 2016-01-11
 
-* [cmsplugin-rst](https://github.com/FabriceSalvaire/cmsplugin-rst)
-
-   Restructured Text (RST) Plugin for Django CMS
-
-   Updated on 2016-12-04
-
 * [cprofilev](https://github.com/FabriceSalvaire/cprofilev)
 
    An easier way to use cProfile
 
    Updated on 2015-04-18
-
-* [django-cms-boilerplate](https://github.com/FabriceSalvaire/django-cms-boilerplate)
-
-   A Django CMS Boilerplate forked from aldryn-boilerplate-bootstrap3.
-
-   Updated on 2016-10-24
 
 * [django-jinja](https://github.com/FabriceSalvaire/django-jinja)
 
@@ -401,12 +421,6 @@
 
    Updated on 2017-01-22
 
-* [euroscipy_proceedings](https://github.com/FabriceSalvaire/euroscipy_proceedings)
-
-   Tools used to generate the SciPy conference proceedings
-
-   Updated on 2014-02-19
-
 * [git-scm.com](https://github.com/FabriceSalvaire/git-scm.com)
 
    The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
@@ -418,12 +432,6 @@
    A simple shared budget manager web application
 
    Updated on 2016-10-19
-
-* [mupdf-v1.3](https://github.com/FabriceSalvaire/mupdf-v1.3)
-
-   CMake build with a SWIG Python Wrapper
-
-   Updated on 2016-02-02
 
 * [normalize.css](https://github.com/FabriceSalvaire/normalize.css)
 
@@ -441,22 +449,48 @@
 
    simavr is a lean, mean and hackable AVR simulator for linux & OSX
 
-   Updated on 2017-05-20
+   Updated on 2017-11-21
 
 * [sphinx-sitemap](https://github.com/FabriceSalvaire/sphinx-sitemap)
 
    Sphinx extension to silently generate a sitemap for HTML builds
 
-   Updated on 2017-11-18
-
-* [swalign](https://github.com/FabriceSalvaire/swalign)
-
-   Smith-Waterman local aligner
-
-   Updated on 2015-01-15
+   Updated on 2017-11-21
 
 * [vpo2](https://github.com/FabriceSalvaire/vpo2)
 
    None
 
    Updated on 2017-09-15
+
+## Others
+
+* [Biblio-old](https://github.com/FabriceSalvaire/Biblio-old)
+
+   None
+
+   Updated on 2017-11-21
+
+* [python-project-template](https://github.com/FabriceSalvaire/python-project-template)
+
+   Python Project Template with useful module and scripts
+
+   Updated on 2014-04-08
+
+* [qt5-bugs](https://github.com/FabriceSalvaire/qt5-bugs)
+
+   Contains bug cases for Qt 5.7
+
+   Updated on 2016-04-22
+
+* [qt5-snippets](https://github.com/FabriceSalvaire/qt5-snippets)
+
+   Qt5 Code Snippets
+
+   Updated on 2016-06-22
+
+* [test-redmine](https://github.com/FabriceSalvaire/test-redmine)
+
+   Just for test!
+
+   Updated on 2014-11-18

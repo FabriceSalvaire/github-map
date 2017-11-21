@@ -115,7 +115,10 @@ if args.make_map:
     content.list((
         'cmsplugin-getthecode',
         'cmsplugin-markup-language',
+        'cmsplugin-mathjax',
+        'cmsplugin-rst',
         'cmsplugin-svg',
+        'django-cms-boilerplate',
     ))
 
     content.h2('Python Web Tools')
@@ -157,6 +160,11 @@ if args.make_map:
         'pyFinancialSimulator',
     ))
 
+    content.h2('Python for bioinformatics')
+    content.list((
+        'swalign',
+    ))
+
     content.h2('Python Applications (PyQt5)')
     content.list((
         'Biblio',
@@ -187,6 +195,7 @@ if args.make_map:
     content.h2('Others')
     content.list((
         'mupdf-cmake',
+        'mupdf-v1.3', # swig
     ))
 
     content.h2('Tools')
@@ -202,9 +211,11 @@ if args.make_map:
     ))
 
     content.h2('Talks')
+    # par date
     content.list((
-        'pyconfr-2014',
         'pyparis-2017',
+        'pyconfr-2014',
+        'euroscipy_proceedings',
     ))
 
     content.h2('Outdated')
@@ -213,29 +224,32 @@ if args.make_map:
     ))
 
     content.h2('Contributed')
+    # content.list(repositories.fork_names)
+    content.list((
+        'aldryn-newsblog',
+        'bokeh',
+        'cprofilev',
+        'django-jinja',
+        'django-messages',
+        'django-tablib',
+        'djangocms-youtube',
+        'git-scm.com',
+        'ihatemoney', # python3 port
+        'normalize.css',
+        'pygit2', #  CodeReview
+        'simavr', # modification
+        'sphinx-sitemap',
+        'vpo2', # issues
+    ))
 
-    # F 'aldryn-newsblog',
-    # F 'bokeh',
-    # F 'cmsplugin-mathjax',
-    # F 'cmsplugin-rst',
-    # F 'cprofilev',
-    # F 'django-cms-boilerplate',
-    # F 'django-jinja',
-    # F 'django-messages',
-    # F 'django-tablib',
-    # F 'djangocms-youtube',
-    # F 'euroscipy_proceedings',
-    # F 'git-scm.com',
-    # F 'ihatemoney',
-    # F 'normalize.css',
-    # F 'pygit2',
-    # F 'vpo2',
-
-    ## F 'mupdf-v1.3',
-    ## F 'simavr',
-    ## F 'swalign',
-
-    content.list(repositories.fork_names)
+    content.h2('Others')
+    content.list((
+        'Biblio-old',
+        'python-project-template',
+        'qt5-bugs',
+        'qt5-snippets',
+        'test-redmine',
+    ))
 
     with open('README.md', 'w') as fh:
         fh.write(str(content))
