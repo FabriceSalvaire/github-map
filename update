@@ -1,0 +1,9 @@
+#! /bin/bash
+
+py36
+tools/repositories --upload
+tools/repositories --make-map
+tools/repositories --star
+
+git commit -m 'update' -a
+git push
