@@ -23,7 +23,9 @@
 
 import argparse
 
-from Repositories import *
+from GithubTools.MarkdownTools import Content
+from GithubTools.Repositories import Repositories
+from GithubTools.Repository import Repository
 
 ####################################################################################################
 
