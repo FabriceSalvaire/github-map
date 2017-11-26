@@ -25,31 +25,19 @@ import os
 # http://pygithub.readthedocs.io/en/latest/
 from github import Github
 
-from .MarkdownTools import Content
+from .Account import Account
 from .Repository import Repository
 
 ####################################################################################################
 
-class Repositories:
+class Repositories(Account):
 
     ##############################################
 
     def __init__(self):
 
-        self._github = None
+        super().__init__()
         self._repositories = {}
-
-    ##############################################
-
-    def login(self):
-
-        if self._github is None:
-            token_path = os.path.expanduser('~/.github-token')
-            with open(token_path, 'r') as f:
-                token = f.readline().strip()
-                # token = ''
-
-            self._github = Github(login_or_token=token)
 
     ##############################################
 
@@ -101,10 +89,10 @@ class Repositories:
         print('Start upload')
         self.login()
 
-        # repository = self._github.get_repo('FabriceSalvaire/CodeReview')
+        # repository = self.github.get_repo('FabriceSalvaire/CodeReview')
         # self._process_repository(repository)
 
-        for repository in self._github.get_user().get_repos():
+        for repository in self.github.get_user().get_repos():
             self._process_repository(repository)
 
         print('Upload done')
