@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 48 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 52 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-11-21
+   Updated on 2017-11-24
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -75,11 +75,11 @@
 
    Updated on 2017-02-18
 
-* [AutoSphinx](https://github.com/FabriceSalvaire/AutoSphinx)
+* [Pyterate](https://github.com/FabriceSalvaire/Pyterate)
 
-   AutoSphinx is Sphinx add-ons to generate documentation for Python projects
+   Pyterate is Sphinx add-ons to generate documentation for Python projects
 
-   Updated on 2017-11-11
+   Updated on 2017-11-23
 
 * [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
 
@@ -89,9 +89,9 @@
 
 * [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
 
-   This plugin provides an enhanced literalinclude directive for Sphinx Documentation Generator.
+   This plugin provides an enhanced literalinclude directive for the Sphinx Documentation Generator.
 
-   Updated on 2017-02-18
+   Updated on 2017-11-26
 
 * [sphinx-lilypond](https://github.com/FabriceSalvaire/sphinx-lilypond)
 
@@ -103,7 +103,7 @@
 
    A SASS theme for sphinx forked from Read The Docs theme.
 
-   Updated on 2017-02-18
+   Updated on 2017-11-26
 
 ## Python Web Application
 
@@ -167,11 +167,11 @@
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 69 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 70 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2017-11-19
+   Updated on 2017-11-24
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
@@ -191,7 +191,7 @@
 
    Linear Delta Robot
 
-   Updated on 2017-02-18
+   Updated on 2017-11-21
 
 ## Python for Image Processing
 
@@ -307,7 +307,7 @@
 
    Updated on 2017-11-18
 
-## Others
+## MuPDF
 
 * [mupdf-cmake](https://github.com/FabriceSalvaire/mupdf-cmake) 1 :star:</br>
 

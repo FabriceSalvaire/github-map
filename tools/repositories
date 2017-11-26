@@ -96,7 +96,7 @@ if args.make_map:
 
     content.h3('Sphinx Documentation Generator')
     content.list((
-        'AutoSphinx',
+        'Pyterate',
         'pygments-lexer',
         'sphinx-css3image',
         'sphinx-getthecode',
@@ -192,7 +192,7 @@ if args.make_map:
         'qt5-vector-graphic-shaders',
     ))
 
-    content.h2('Others')
+    content.h2('MuPDF')
     content.list((
         'mupdf-cmake',
         'mupdf-v1.3', # swig
