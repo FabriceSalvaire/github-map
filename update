@@ -1,5 +1,7 @@
 #! /bin/bash
 
+source ~/.bashrc
+
 py36
 bin/repositories --upload
 bin/repositories --make-map
