@@ -3,9 +3,13 @@
 source ~/.bashrc
 
 py36
-bin/repositories --upload
-bin/repositories --make-map
-bin/repositories --star
+
+appen_to_python_path_if_not $PWD
+appen_to_path_if_not $PWD/bin
+
+repositories --upload
+repositories --make-map
+repositories --star
 
 git commit -m 'update' -a
 git push
