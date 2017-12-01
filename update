@@ -4,8 +4,8 @@ source ~/.bashrc
 
 py36
 
-appen_to_python_path_if_not $PWD
-appen_to_path_if_not $PWD/bin
+append_to_python_path_if_not $PWD
+append_to_path_if_not $PWD/bin
 
 repositories --upload
 repositories --make-map
