@@ -37,17 +37,17 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 52 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 56 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-11-24
+   Updated on 2017-11-30
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2017-11-19
+   Updated on 2017-11-26
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -167,11 +167,11 @@
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 70 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 71 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2017-11-24
+   Updated on 2017-11-28
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
@@ -287,17 +287,17 @@
 
 ## Web
 
-* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 23 :star:</br>
+* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 24 :star:</br>
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   Updated on 2017-11-18
+   Updated on 2017-11-29
 
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
    HTML pages to test various CSS settings and based on Bootstrap, Jinja2, SASS and Gulp
 
-   Updated on 2017-02-18
+   Updated on 2017-11-28
 
 ## Qt
 
