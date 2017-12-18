@@ -11,11 +11,11 @@
 
    Updated on 2017-11-19
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 4 :star:</br>
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 5 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   Updated on 2017-11-19
+   Updated on 2017-12-13
 
 * [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 2 :star:</br>
 
@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 58 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 62 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-12-04
+   Updated on 2017-12-15
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -209,11 +209,11 @@
 
 ## Python for Pattern Drafting
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 2 :star:</br>
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 3 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2017-11-21
+   Updated on 2017-12-08
 
 ## Python for Music
 
