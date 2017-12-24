@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 62 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 65 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-12-15
+   Updated on 2017-12-23
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -167,11 +167,11 @@
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 72 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 73 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2017-12-06
+   Updated on 2017-12-19
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
