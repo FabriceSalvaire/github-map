@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 65 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 70 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-12-23
+   Updated on 2017-12-27
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
