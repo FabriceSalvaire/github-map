@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 70 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 72 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2017-12-27
+   Updated on 2018-01-07
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -167,11 +167,11 @@
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 73 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 74 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2017-12-19
+   Updated on 2017-12-30
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
@@ -209,11 +209,11 @@
 
 ## Python for Pattern Drafting
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 3 :star:</br>
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 4 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2017-12-08
+   Updated on 2018-01-03
 
 ## Python for Music
 
