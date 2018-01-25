@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 78 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 80 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-01-16
+   Updated on 2018-01-23
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -69,6 +69,12 @@
 
    Updated on 2017-02-18
 
+* [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode) 1 :star:</br>
+
+   This plugin provides an enhanced literalinclude directive for the Sphinx Documentation Generator.
+
+   Updated on 2018-01-20
+
 * [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 1 :star:</br>
 
    Microdata semantic markups support for Sphinx Documentation Generator.
@@ -86,12 +92,6 @@
    Additional Pygments Lexer (m4, m4pic, SPICE)
 
    Updated on 2017-11-19
-
-* [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode)
-
-   This plugin provides an enhanced literalinclude directive for the Sphinx Documentation Generator.
-
-   Updated on 2017-11-26
 
 * [sphinx-lilypond](https://github.com/FabriceSalvaire/sphinx-lilypond)
 
@@ -167,11 +167,11 @@
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 76 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 79 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-01-19
+   Updated on 2018-01-20
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
 
