@@ -5,11 +5,11 @@
 
 ## Python Packages
 
-* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 6 :star:</br>
+* [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
 
    An OpenGL CFFI (and ctypes) binding for Python
 
-   Updated on 2017-11-19
+   Updated on 2018-01-30
 
 * [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 5 :star:</br>
 
@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 80 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 83 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-01-23
+   Updated on 2018-02-05
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -167,23 +167,23 @@
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 79 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 80 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-01-20
+   Updated on 2018-02-02
 
-* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 1 :star:</br>
+* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
    PyResistorColorCode is a Python module that provides some tools to manage IEC 60062 marking codes for resistors.
 
-   Updated on 2017-11-21
+   Updated on 2018-01-26
 
-* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator)
+* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 1 :star:</br>
 
    CPU Simulator written in Python
 
-   Updated on 2017-11-20
+   Updated on 2018-01-26
 
 ## Python for Mechanic
 
@@ -209,11 +209,11 @@
 
 ## Python for Pattern Drafting
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 4 :star:</br>
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 5 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2018-01-03
+   Updated on 2018-02-01
 
 ## Python for Music
 
