@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 83 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 87 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-02-05
+   Updated on 2018-02-12
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -63,6 +63,12 @@
 
 ### Sphinx Documentation Generator
 
+* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 2 :star:</br>
+
+   Microdata semantic markups support for Sphinx Documentation Generator.
+
+   Updated on 2018-02-07
+
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
 
    This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
@@ -74,12 +80,6 @@
    This plugin provides an enhanced literalinclude directive for the Sphinx Documentation Generator.
 
    Updated on 2018-01-20
-
-* [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 1 :star:</br>
-
-   Microdata semantic markups support for Sphinx Documentation Generator.
-
-   Updated on 2017-02-18
 
 * [Pyterate](https://github.com/FabriceSalvaire/Pyterate)
 
