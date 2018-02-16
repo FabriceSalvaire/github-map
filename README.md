@@ -107,11 +107,11 @@
 
 ## Python Web Application
 
-* [bleau-database](https://github.com/bleaudb/bleau-database)
+* [bleau-database](https://github.com/bleaudb/bleau-database) 1 :star:</br>
 
     This repository contains a database of the bouldering circuits of Fontainebleau and a web application to show and manage this database.
 
-   Updated on 2016-10-02
+   Updated on 2018-02-14
 
 * [grouped-purchase-order](https://github.com/FabriceSalvaire/grouped-purchase-order)
 
