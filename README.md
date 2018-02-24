@@ -37,11 +37,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 87 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 91 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-02-12
+   Updated on 2018-02-23
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -217,11 +217,11 @@
 
 ## Python for Music
 
-* [Musica](https://github.com/FabriceSalvaire/Musica)
+* [Musica](https://github.com/FabriceSalvaire/Musica) 1 :star:</br>
 
    Musica is a Python toolkit for computational music.
 
-   Updated on 2017-11-08
+   Updated on 2018-02-19
 
 * [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
 
