@@ -3,6 +3,8 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
+Overall stars: 252 :star:
+
 ## Python Packages
 
 * [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
@@ -37,11 +39,11 @@
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 91 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 95 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-02-23
+   Updated on 2018-03-01
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
