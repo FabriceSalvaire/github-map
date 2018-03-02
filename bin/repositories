@@ -78,6 +78,9 @@ if args.make_map:
     content += '![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)'
     content += '\n'
 
+    stargazers_count = sum([repository.stargazers_count for repository in repositories])
+    content += '\nOverall stars: {} :star:\n'.format(stargazers_count)
+
     content.h2('Python Packages')
     content.list((
         'PyDVI',
