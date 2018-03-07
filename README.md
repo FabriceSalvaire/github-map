@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 252 :star:
+Overall stars: 255 :star:
 
 ## Python Packages
 
@@ -39,11 +39,11 @@ Overall stars: 252 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 95 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 97 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-03-01
+   Updated on 2018-03-07
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -169,11 +169,11 @@ Overall stars: 252 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 80 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 81 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-02-02
+   Updated on 2018-03-04
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
@@ -259,7 +259,7 @@ Overall stars: 252 :star:
 
    An experimental PDF document manager. 
 
-   Updated on 2017-11-21
+   Updated on 2018-03-05
 
 * [elbrea](https://github.com/FabriceSalvaire/elbrea)
 
