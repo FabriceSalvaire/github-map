@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 255 :star:
+Overall stars: 261 :star:
 
 ## Python Packages
 
@@ -39,11 +39,11 @@ Overall stars: 255 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 97 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 99 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-03-07
+   Updated on 2018-03-09
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -169,11 +169,11 @@ Overall stars: 255 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 81 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 82 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-03-04
+   Updated on 2018-03-08
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
@@ -303,11 +303,11 @@ Overall stars: 255 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 13 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 16 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2017-12-06
+   Updated on 2018-03-10
 
 ## MuPDF
 
