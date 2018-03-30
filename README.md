@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 271 :star:
+Overall stars: 274 :star:
 
 ## Python Packages
 
@@ -39,17 +39,17 @@ Overall stars: 271 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 106 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 108 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-03-22
+   Updated on 2018-03-29
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-03-17
+   Updated on 2018-03-24
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -127,7 +127,7 @@ Overall stars: 271 :star:
 
    SVG Plugin for Django CMS
 
-   Updated on 2017-07-05
+   Updated on 2018-03-29
 
 * [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
 
@@ -215,7 +215,7 @@ Overall stars: 271 :star:
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2018-02-01
+   Updated on 2018-03-30
 
 ## Python for Music
 
@@ -289,11 +289,11 @@ Overall stars: 271 :star:
 
 ## Web
 
-* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 25 :star:</br>
+* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 26 :star:</br>
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   Updated on 2018-03-20
+   Updated on 2018-03-30
 
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
