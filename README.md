@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 281 :star:
+Overall stars: 284 :star:
 
 ## Python Packages
 
@@ -39,17 +39,17 @@ Overall stars: 281 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 112 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 114 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-04-10
+   Updated on 2018-04-12
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-03-30
+   Updated on 2018-04-10
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -169,11 +169,11 @@ Overall stars: 281 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 86 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 87 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-04-10
+   Updated on 2018-04-16
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
@@ -237,7 +237,7 @@ Overall stars: 281 :star:
 
    A financial simulator written in Python
 
-   Updated on 2015-09-27
+   Updated on 2018-04-11
 
 ## Python for bioinformatics
 
