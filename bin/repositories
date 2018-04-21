@@ -113,6 +113,7 @@ if args.make_map:
     content.h2('Python Web Application')
     content.list((
         'bleau-database',
+        'climbing-asso-portal',
         'grouped-purchase-order',
     ))
 
@@ -173,6 +174,7 @@ if args.make_map:
     content.h2('Python Applications (PyQt5)')
     content.list((
         'Biblio',
+        'biblio-data',
         'LaptopControlPanel',
         'elbrea',
         'monitor-server',
@@ -233,6 +235,7 @@ if args.make_map:
     content.list((
         'aldryn-newsblog',
         'bokeh',
+        'bootstrap-slider',
         'cprofilev',
         'django-jinja',
         'django-messages',
