@@ -49,7 +49,7 @@ Overall stars: 290 :star:
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-04-16
+   Updated on 2018-04-21
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -114,6 +114,12 @@ Overall stars: 290 :star:
     This repository contains a database of the bouldering circuits of Fontainebleau and a web application to show and manage this database.
 
    Updated on 2018-03-21
+
+* [climbing-asso-portal](https://github.com/FabriceSalvaire/climbing-asso-portal)
+
+   None
+
+   Updated on 2018-04-10
 
 * [grouped-purchase-order](https://github.com/FabriceSalvaire/grouped-purchase-order)
 
@@ -261,6 +267,12 @@ Overall stars: 290 :star:
 
    Updated on 2018-04-21
 
+* [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
+
+   None
+
+   Updated on 2018-03-10
+
 * [elbrea](https://github.com/FabriceSalvaire/elbrea)
 
    R&D project featuring image processing and a xournal clone
@@ -392,6 +404,12 @@ Overall stars: 290 :star:
    Interactive Web Plotting for Python
 
    Updated on 2016-01-11
+
+* [bootstrap-slider](https://github.com/FabriceSalvaire/bootstrap-slider)
+
+   A complete rewrite of the original bootstrap-slider by Stefan Petre.
+
+   Updated on 2018-04-05
 
 * [cprofilev](https://github.com/FabriceSalvaire/cprofilev)
 
