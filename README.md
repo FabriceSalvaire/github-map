@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 284 :star:
+Overall stars: 290 :star:
 
 ## Python Packages
 
@@ -39,17 +39,17 @@ Overall stars: 284 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 114 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 119 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-04-12
+   Updated on 2018-04-17
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-04-10
+   Updated on 2018-04-16
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -173,17 +173,17 @@ Overall stars: 284 :star:
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-04-16
+   Updated on 2018-04-19
+
+* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
+
+   CPU Simulator written in Python
+
+   Updated on 2018-04-20
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
    PyResistorColorCode is a Python module that provides some tools to manage IEC 60062 marking codes for resistors.
-
-   Updated on 2018-01-26
-
-* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 1 :star:</br>
-
-   CPU Simulator written in Python
 
    Updated on 2018-01-26
 
@@ -259,7 +259,7 @@ Overall stars: 284 :star:
 
    An experimental PDF document manager. 
 
-   Updated on 2018-03-05
+   Updated on 2018-04-21
 
 * [elbrea](https://github.com/FabriceSalvaire/elbrea)
 
