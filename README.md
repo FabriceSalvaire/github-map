@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 294 :star:
+Overall stars: 321 :star:
 
 ## Python Packages
 
@@ -37,19 +37,25 @@ Overall stars: 294 :star:
 
    Updated on 2017-11-11
 
+* [sidita](https://github.com/FabriceSalvaire/sidita)
+
+   A simple distributed task queue for Python 3 asyncio
+
+   Updated on 2018-05-09
+
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 120 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 135 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-04-23
+   Updated on 2018-06-06
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-04-21
+   Updated on 2018-06-07
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -61,7 +67,7 @@ Overall stars: 294 :star:
 
    A Python template package
 
-   Updated on 2017-11-10
+   Updated on 2018-04-28
 
 ### Sphinx Documentation Generator
 
@@ -70,6 +76,12 @@ Overall stars: 294 :star:
    Microdata semantic markups support for Sphinx Documentation Generator.
 
    Updated on 2018-02-07
+
+* [Pyterate](https://github.com/FabriceSalvaire/Pyterate) 1 :star:</br>
+
+   Pyterate is Sphinx add-ons to generate documentation for Python projects
+
+   Updated on 2018-06-06
 
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
 
@@ -82,12 +94,6 @@ Overall stars: 294 :star:
    This plugin provides an enhanced literalinclude directive for the Sphinx Documentation Generator.
 
    Updated on 2018-01-20
-
-* [Pyterate](https://github.com/FabriceSalvaire/Pyterate)
-
-   Pyterate is Sphinx add-ons to generate documentation for Python projects
-
-   Updated on 2017-11-23
 
 * [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
 
@@ -175,11 +181,11 @@ Overall stars: 294 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 89 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 96 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-04-24
+   Updated on 2018-06-06
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -217,11 +223,11 @@ Overall stars: 294 :star:
 
 ## Python for Pattern Drafting
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 5 :star:</br>
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 8 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2018-03-30
+   Updated on 2018-05-30
 
 ## Python for Music
 
@@ -261,12 +267,6 @@ Overall stars: 294 :star:
 
    Updated on 2017-11-21
 
-* [Biblio](https://github.com/FabriceSalvaire/Biblio)
-
-   An experimental PDF document manager. 
-
-   Updated on 2018-04-22
-
 * [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
 
    None
@@ -290,6 +290,12 @@ Overall stars: 294 :star:
    Géoportail Python client
 
    Updated on 2017-11-21
+
+* [squirrel](https://github.com/FabriceSalvaire/squirrel)
+
+   An experimental PDF document manager. 
+
+   Updated on 2018-05-04
 
 ## Python Outdated
 
@@ -385,11 +391,11 @@ Overall stars: 294 :star:
 
 ## Outdated
 
-* [libfprint-baspi](https://github.com/FabriceSalvaire/libfprint-baspi) 1 :star:</br>
+* [libfprint-baspi](https://github.com/FabriceSalvaire/libfprint-baspi) 2 :star:</br>
 
    libfprint v0.5.0 with a wrapper driver that uses the proprietary libbsapi from Authentec.
 
-   Updated on 2017-11-21
+   Updated on 2018-06-01
 
 ## Contributed
 

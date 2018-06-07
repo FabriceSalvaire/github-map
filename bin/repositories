@@ -83,6 +83,7 @@ if args.make_map:
 
     content.h2('Python Packages')
     content.list((
+        'sidita',
         'PyDVI', # mature, promote ?
         'PyMetrology', # should be outsourced
         'PyOpenGLng', # mature
@@ -173,7 +174,7 @@ if args.make_map:
 
     content.h2('Python Applications (PyQt5)')
     content.list((
-        'Biblio', # promote
+        'squirrel', # promote
         'biblio-data',
         'LaptopControlPanel', # mature and unused
         'elbrea', # no more times, must split code
