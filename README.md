@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 321 :star:
+Overall stars: 345 :star:
 
 ## Python Packages
 
@@ -25,17 +25,17 @@ Overall stars: 321 :star:
 
    Updated on 2017-11-18
 
+* [python-interval-arithmetic](https://github.com/FabriceSalvaire/python-interval-arithmetic) 1 :star:</br>
+
+   A Python Interval Arithmetic Module 
+
+   Updated on 2018-06-16
+
 * [PyMetrology](https://github.com/FabriceSalvaire/PyMetrology)
 
    An unit framework for Python 3
 
    Updated on 2017-11-10
-
-* [python-interval-arithmetic](https://github.com/FabriceSalvaire/python-interval-arithmetic)
-
-   A Python Interval Arithmetic Module 
-
-   Updated on 2017-11-11
 
 * [sidita](https://github.com/FabriceSalvaire/sidita)
 
@@ -45,11 +45,11 @@ Overall stars: 321 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 135 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 150 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-06-06
+   Updated on 2018-07-24
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -181,11 +181,11 @@ Overall stars: 321 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 96 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 101 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-06-06
+   Updated on 2018-07-23
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -321,11 +321,11 @@ Overall stars: 321 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 18 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 21 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2018-04-24
+   Updated on 2018-06-28
 
 ## MuPDF
 
