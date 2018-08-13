@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 345 :star:
+Overall stars: 354 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 345 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 150 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 156 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-07-24
+   Updated on 2018-08-10
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-06-07
+   Updated on 2018-07-24
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 345 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 101 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 103 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-07-23
+   Updated on 2018-08-06
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -371,6 +371,12 @@ Overall stars: 345 :star:
 
 ## Talks
 
+* [pyparis-2017](https://github.com/FabriceSalvaire/pyparis-2017) 1 :star:</br>
+
+   PyParis 2017 Talk — Circuit Simulation using Python 
+
+   Updated on 2018-07-24
+
 * [euroscipy_proceedings](https://github.com/FabriceSalvaire/euroscipy_proceedings)
 
    Tools used to generate the SciPy conference proceedings
@@ -382,12 +388,6 @@ Overall stars: 345 :star:
    PyConFr 2014 talk and poster
 
    Updated on 2017-02-18
-
-* [pyparis-2017](https://github.com/FabriceSalvaire/pyparis-2017)
-
-   PyParis 2017 Talk — Circuit Simulation using Python 
-
-   Updated on 2017-11-21
 
 ## Outdated
 
