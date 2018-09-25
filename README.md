@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 354 :star:
+Overall stars: 369 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 354 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 156 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 163 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-08-10
+   Updated on 2018-09-25
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-07-24
+   Updated on 2018-08-13
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 354 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 103 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 109 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-08-06
+   Updated on 2018-09-25
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -223,11 +223,11 @@ Overall stars: 354 :star:
 
 ## Python for Pattern Drafting
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 8 :star:</br>
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 9 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2018-05-30
+   Updated on 2018-09-08
 
 ## Python for Music
 
@@ -321,11 +321,11 @@ Overall stars: 354 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 21 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 22 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2018-06-28
+   Updated on 2018-09-05
 
 ## MuPDF
 
