@@ -55,7 +55,7 @@ Overall stars: 408 :star:
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-11-26
+   Updated on 2018-12-22
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -199,7 +199,13 @@ Overall stars: 408 :star:
 
    Updated on 2018-01-26
 
-## Python for Mechanic
+## Python for CAD — CAM - Mechanic
+
+* [LaserWeb-Tools](https://github.com/FabriceSalvaire/LaserWeb-Tools) 1 :star:</br>
+
+   Tools for LaserWeb
+
+   Updated on 2018-09-27
 
 * [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot) 1 :star:</br>
 
@@ -229,6 +235,12 @@ Overall stars: 408 :star:
 
    Updated on 2018-12-15
 
+* [Patro](https://github.com/FabriceSalvaire/Patro)
+
+   A Python library to make patterns for fashion design
+
+   Updated on 2018-12-19
+
 ## Python for Music
 
 * [Musica](https://github.com/FabriceSalvaire/Musica) 1 :star:</br>
@@ -242,6 +254,12 @@ Overall stars: 408 :star:
    Data for Musica
 
    Updated on 2017-11-17
+
+* [Song-and-pattern-repository](https://github.com/FabriceSalvaire/Song-and-pattern-repository)
+
+   A repository for free hydrogen songs and patterns 
+
+   Updated on 2018-10-24
 
 ## Python for Finance
 

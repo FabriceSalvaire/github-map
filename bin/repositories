@@ -140,8 +140,9 @@ if args.make_map:
         'PySpice',
     ))
 
-    content.h2('Python for Mechanic')
+    content.h2('Python for CAD — CAM - Mechanic')
     content.list((
+        'LaserWeb-Tools',
         'linear-delta-robot',
     ))
 
@@ -153,13 +154,15 @@ if args.make_map:
 
     content.h2('Python for Pattern Drafting')
     content.list((
-        'PyValentina',
+        'Patro',
+        'PyValentina', # old repo
     ))
 
     content.h2('Python for Music')
     content.list((
         'Musica', # promote
         'Musica-data',
+        'Song-and-pattern-repository', # hydrogen ...
     ))
 
     content.h2('Python for Finance')
