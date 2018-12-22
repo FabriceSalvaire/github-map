@@ -33,9 +33,9 @@ Overall stars: 408 :star:
 
 * [PyMetrology](https://github.com/FabriceSalvaire/PyMetrology)
 
-   An unit framework for Python 3
+   An unit framework for Python 3 ( outsourced from PySpice )
 
-   Updated on 2017-11-10
+   Updated on 2018-12-22
 
 * [sidita](https://github.com/FabriceSalvaire/sidita)
 
@@ -129,9 +129,9 @@ Overall stars: 408 :star:
 
 * [grouped-purchase-order](https://github.com/FabriceSalvaire/grouped-purchase-order)
 
-   A Django web application to manage grouped purchase order.
+   A Django web application to manage grouped purchase order. ( Devel test )
 
-   Updated on 2016-03-13
+   Updated on 2018-12-22
 
 ### DjangoCMS
 
@@ -209,9 +209,9 @@ Overall stars: 408 :star:
 
 * [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot) 1 :star:</br>
 
-   Linear Delta Robot
+   Linear Delta Robot Cinematic Study
 
-   Updated on 2017-11-21
+   Updated on 2018-12-22
 
 ## Python for Image Processing
 
@@ -305,9 +305,9 @@ Overall stars: 408 :star:
 
 * [pygeoportail](https://github.com/FabriceSalvaire/pygeoportail)
 
-   Géoportail Python client
+   Géoportail Python client ( uses Qt and OpenGL )
 
-   Updated on 2017-11-21
+   Updated on 2018-12-22
 
 * [squirrel](https://github.com/FabriceSalvaire/squirrel)
 
