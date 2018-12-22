@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 398 :star:
+Overall stars: 408 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 398 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 183 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 184 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-11-22
+   Updated on 2018-12-20
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-10-24
+   Updated on 2018-11-26
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 398 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 119 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 127 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-11-21
+   Updated on 2018-12-18
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -211,9 +211,9 @@ Overall stars: 398 :star:
 
 * [mamba-image](https://github.com/FabriceSalvaire/mamba-image)
 
-   Unofficial repository for http://www.mamba-image.org
+   Fork of MAMBA mathematical morphology library http://www.mamba-image.org
 
-   Updated on 2017-11-21
+   Updated on 2018-12-01
 
 * [simple-morpho-math](https://github.com/FabriceSalvaire/simple-morpho-math)
 
@@ -223,11 +223,11 @@ Overall stars: 398 :star:
 
 ## Python for Pattern Drafting
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 9 :star:</br>
+* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 10 :star:</br>
 
    Python implementation of the Valentina Pattern Making software
 
-   Updated on 2018-09-08
+   Updated on 2018-12-15
 
 ## Python for Music
 
@@ -235,7 +235,7 @@ Overall stars: 398 :star:
 
    Musica is a Python toolkit for computational music.
 
-   Updated on 2018-02-19
+   Updated on 2018-11-30
 
 * [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
 
