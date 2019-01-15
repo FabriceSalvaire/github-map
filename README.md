@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 408 :star:
+Overall stars: 423 :star:
 
 ## Python Packages
 
@@ -45,11 +45,11 @@ Overall stars: 408 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 184 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 197 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2018-12-20
+   Updated on 2019-01-13
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -181,11 +181,11 @@ Overall stars: 408 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 127 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 129 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2018-12-18
+   Updated on 2019-01-13
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -239,7 +239,7 @@ Overall stars: 408 :star:
 
    A Python library to make patterns for fashion design
 
-   Updated on 2018-12-19
+   Updated on 2018-12-31
 
 ## Python for Music
 
@@ -421,7 +421,7 @@ Overall stars: 408 :star:
 
    A combined news/weblog application for Aldryn and django CMS – part of the Essential Addons.
 
-   Updated on 2016-10-21
+   Updated on 2019-01-09
 
 * [bokeh](https://github.com/FabriceSalvaire/bokeh)
 
