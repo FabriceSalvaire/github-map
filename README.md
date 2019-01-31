@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 423 :star:
+Overall stars: 424 :star:
 
 ## Python Packages
 
@@ -29,7 +29,7 @@ Overall stars: 423 :star:
 
    A Python Interval Arithmetic Module 
 
-   Updated on 2018-06-16
+   Updated on 2019-01-22
 
 * [PyMetrology](https://github.com/FabriceSalvaire/PyMetrology)
 
@@ -45,17 +45,17 @@ Overall stars: 423 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 197 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 198 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-01-13
+   Updated on 2019-01-25
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2018-12-22
+   Updated on 2019-01-15
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -185,7 +185,7 @@ Overall stars: 423 :star:
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-01-13
+   Updated on 2019-01-21
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -239,7 +239,7 @@ Overall stars: 423 :star:
 
    A Python library to make patterns for fashion design
 
-   Updated on 2018-12-31
+   Updated on 2019-01-30
 
 ## Python for Music
 
