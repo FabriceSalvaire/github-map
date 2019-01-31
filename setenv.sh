@@ -1,2 +1,2 @@
-source /opt/python-virtual-env/py36/bin/activate
+py37
 append_to_python_path_if_not ${PWD}
