@@ -55,7 +55,7 @@ Overall stars: 424 :star:
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-01-15
+   Updated on 2019-01-31
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -213,6 +213,12 @@ Overall stars: 424 :star:
 
    Updated on 2018-12-22
 
+* [pythonic-gcode-machine](https://github.com/FabriceSalvaire/pythonic-gcode-machine)
+
+   A Python G-code Toolkit ( NIST RS-274 / Gcode / ISO  )
+
+   Updated on 2018-12-27
+
 ## Python for Image Processing
 
 * [mamba-image](https://github.com/FabriceSalvaire/mamba-image)
@@ -240,6 +246,12 @@ Overall stars: 424 :star:
    A Python library to make patterns for fashion design
 
    Updated on 2019-01-30
+
+* [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
+
+   Data files for Patro examples
+
+   Updated on 2019-01-25
 
 ## Python for Music
 

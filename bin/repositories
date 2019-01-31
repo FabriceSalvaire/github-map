@@ -142,6 +142,7 @@ if args.make_map:
 
     content.h2('Python for CAD — CAM - Mechanic')
     content.list((
+        'pythonic-gcode-machine',
         'LaserWeb-Tools',
         'linear-delta-robot',
     ))
@@ -155,6 +156,7 @@ if args.make_map:
     content.h2('Python for Pattern Drafting')
     content.list((
         'Patro',
+        'Patro-data',
         'PyValentina', # old repo
     ))
 
