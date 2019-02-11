@@ -157,7 +157,7 @@ if args.make_map:
     content.list((
         'Patro',
         'Patro-data',
-        'PyValentina', # old repo
+        # 'PyValentina', # old repo
     ))
 
     content.h2('Python for Music')
@@ -179,6 +179,7 @@ if args.make_map:
 
     content.h2('Python Applications (PyQt5)')
     content.list((
+        'book-browser,'
         'squirrel', # promote
         'biblio-data',
         'LaptopControlPanel', # mature and unused
