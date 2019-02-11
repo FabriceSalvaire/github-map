@@ -179,7 +179,7 @@ if args.make_map:
 
     content.h2('Python Applications (PyQt5)')
     content.list((
-        'book-browser,'
+        'book-browser',
         'squirrel', # promote
         'biblio-data',
         'LaptopControlPanel', # mature and unused

@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 424 :star:
+Overall stars: 430 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 424 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 198 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 200 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-01-25
+   Updated on 2019-02-07
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-01-31
+   Updated on 2019-02-11
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 424 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 129 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 130 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-01-21
+   Updated on 2019-02-06
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -235,17 +235,11 @@ Overall stars: 424 :star:
 
 ## Python for Pattern Drafting
 
-* [PyValentina](https://github.com/FabriceSalvaire/PyValentina) 10 :star:</br>
-
-   Python implementation of the Valentina Pattern Making software
-
-   Updated on 2018-12-15
-
-* [Patro](https://github.com/FabriceSalvaire/Patro)
+* [Patro](https://github.com/FabriceSalvaire/Patro) 10 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-01-30
+   Updated on 2019-02-10
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -296,6 +290,12 @@ Overall stars: 424 :star:
    LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
 
    Updated on 2017-11-21
+
+* [book-browser](https://github.com/FabriceSalvaire/book-browser) 1 :star:</br>
+
+   An application to read books stored as an image by page (Python3 Qt5 QML)
+
+   Updated on 2019-02-11
 
 * [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
 
@@ -351,11 +351,11 @@ Overall stars: 424 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 22 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 24 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2018-09-05
+   Updated on 2019-02-08
 
 ## MuPDF
 
