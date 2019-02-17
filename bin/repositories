@@ -157,7 +157,7 @@ if args.make_map:
     content.list((
         'Patro',
         'Patro-data',
-        # 'PyValentina', # old repo
+        # 'PyValentina', # old repo Patro-to-delete
     ))
 
     content.h2('Python for Music')

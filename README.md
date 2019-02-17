@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 430 :star:
+Overall stars: 431 :star:
 
 ## Python Packages
 
@@ -181,11 +181,11 @@ Overall stars: 430 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 130 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 131 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-02-06
+   Updated on 2019-02-16
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -239,7 +239,7 @@ Overall stars: 430 :star:
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-02-10
+   Updated on 2019-02-14
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -265,7 +265,7 @@ Overall stars: 430 :star:
 
    A repository for free hydrogen songs and patterns 
 
-   Updated on 2018-10-24
+   Updated on 2019-02-15
 
 ## Python for Finance
 
@@ -295,7 +295,7 @@ Overall stars: 430 :star:
 
    An application to read books stored as an image by page (Python3 Qt5 QML)
 
-   Updated on 2019-02-11
+   Updated on 2019-02-17
 
 * [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
 
