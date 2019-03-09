@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 438 :star:
+Overall stars: 446 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 438 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 205 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 208 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-02-21
+   Updated on 2019-03-09
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-02-17
+   Updated on 2019-02-25
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 438 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 133 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 138 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-02-24
+   Updated on 2019-03-09
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -295,7 +295,7 @@ Overall stars: 438 :star:
 
    An application to digitise and read books (Python3 Qt5 QML)
 
-   Updated on 2019-02-20
+   Updated on 2019-03-05
 
 * [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
 
@@ -325,7 +325,7 @@ Overall stars: 438 :star:
 
    An experimental PDF document manager. 
 
-   Updated on 2018-05-04
+   Updated on 2019-02-28
 
 ## Python Outdated
 
@@ -341,7 +341,7 @@ Overall stars: 438 :star:
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   Updated on 2018-11-16
+   Updated on 2019-02-27
 
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
