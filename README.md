@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 446 :star:
+Overall stars: 447 :star:
 
 ## Python Packages
 
@@ -55,7 +55,7 @@ Overall stars: 446 :star:
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-02-25
+   Updated on 2019-03-09
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -185,7 +185,7 @@ Overall stars: 446 :star:
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-03-09
+   Updated on 2019-03-11
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -235,11 +235,11 @@ Overall stars: 446 :star:
 
 ## Python for Pattern Drafting
 
-* [Patro](https://github.com/FabriceSalvaire/Patro) 10 :star:</br>
+* [Patro](https://github.com/FabriceSalvaire/Patro) 11 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-02-14
+   Updated on 2019-03-09
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
