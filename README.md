@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 447 :star:
+Overall stars: 467 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 447 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 208 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 217 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-03-09
+   Updated on 2019-04-07
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-03-09
+   Updated on 2019-03-11
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 447 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 138 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 149 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-03-11
+   Updated on 2019-04-04
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -253,7 +253,7 @@ Overall stars: 447 :star:
 
    Musica is a Python toolkit for computational music.
 
-   Updated on 2018-11-30
+   Updated on 2019-03-28
 
 * [Musica-data](https://github.com/FabriceSalvaire/Musica-data)
 
@@ -295,7 +295,7 @@ Overall stars: 447 :star:
 
    An application to digitise and read books (Python3 Qt5 QML)
 
-   Updated on 2019-03-05
+   Updated on 2019-04-06
 
 * [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
 
@@ -385,7 +385,7 @@ Overall stars: 447 :star:
 
    Some MAO Fedora packages
 
-   Updated on 2017-10-22
+   Updated on 2019-03-16
 
 * [copr-ngspice](https://github.com/FabriceSalvaire/copr-ngspice)
 
