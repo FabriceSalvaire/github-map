@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 467 :star:
+Overall stars: 477 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 467 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 217 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 221 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-04-07
+   Updated on 2019-04-24
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-03-11
+   Updated on 2019-04-07
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 467 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 149 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 153 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-04-04
+   Updated on 2019-04-20
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -239,7 +239,7 @@ Overall stars: 467 :star:
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-03-09
+   Updated on 2019-04-15
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -291,11 +291,11 @@ Overall stars: 467 :star:
 
    Updated on 2017-11-21
 
-* [book-browser](https://github.com/FabriceSalvaire/book-browser) 1 :star:</br>
+* [book-browser](https://github.com/FabriceSalvaire/book-browser) 2 :star:</br>
 
    An application to digitise and read books (Python3 Qt5 QML)
 
-   Updated on 2019-04-06
+   Updated on 2019-04-14
 
 * [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
 
@@ -363,7 +363,7 @@ Overall stars: 467 :star:
 
    CMake build for MuPDF
 
-   Updated on 2017-09-15
+   Updated on 2019-04-25
 
 * [mupdf-v1.3](https://github.com/FabriceSalvaire/mupdf-v1.3)
 
