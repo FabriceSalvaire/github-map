@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 477 :star:
+Overall stars: 496 :star:
 
 ## Python Packages
 
@@ -13,11 +13,11 @@ Overall stars: 477 :star:
 
    Updated on 2018-01-30
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 5 :star:</br>
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 6 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   Updated on 2017-12-13
+   Updated on 2019-07-15
 
 * [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 2 :star:</br>
 
@@ -45,17 +45,17 @@ Overall stars: 477 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 221 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 233 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-04-24
+   Updated on 2019-07-16
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-04-07
+   Updated on 2019-04-27
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 477 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 153 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 160 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-04-20
+   Updated on 2019-07-11
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -235,11 +235,11 @@ Overall stars: 477 :star:
 
 ## Python for Pattern Drafting
 
-* [Patro](https://github.com/FabriceSalvaire/Patro) 11 :star:</br>
+* [Patro](https://github.com/FabriceSalvaire/Patro) 12 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-04-15
+   Updated on 2019-07-02
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -337,11 +337,11 @@ Overall stars: 477 :star:
 
 ## Web
 
-* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 24 :star:</br>
+* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 23 :star:</br>
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   Updated on 2019-02-27
+   Updated on 2019-05-04
 
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
@@ -351,11 +351,11 @@ Overall stars: 477 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 24 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 23 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2019-02-08
+   Updated on 2019-05-13
 
 ## MuPDF
 
