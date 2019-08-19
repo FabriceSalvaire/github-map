@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 496 :star:
+Overall stars: 503 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 496 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 233 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 235 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-07-16
+   Updated on 2019-08-16
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-04-27
+   Updated on 2019-07-18
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 496 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 160 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 163 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-07-11
+   Updated on 2019-08-15
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -235,11 +235,11 @@ Overall stars: 496 :star:
 
 ## Python for Pattern Drafting
 
-* [Patro](https://github.com/FabriceSalvaire/Patro) 12 :star:</br>
+* [Patro](https://github.com/FabriceSalvaire/Patro) 13 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-07-02
+   Updated on 2019-07-25
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -381,11 +381,11 @@ Overall stars: 496 :star:
 
 ## Fedora
 
-* [copr-mao](https://github.com/FabriceSalvaire/copr-mao) 2 :star:</br>
+* [copr-mao](https://github.com/FabriceSalvaire/copr-mao) 3 :star:</br>
 
    Some MAO Fedora packages
 
-   Updated on 2019-03-16
+   Updated on 2019-07-19
 
 * [copr-ngspice](https://github.com/FabriceSalvaire/copr-ngspice)
 
@@ -505,7 +505,7 @@ Overall stars: 496 :star:
 
    simavr is a lean, mean and hackable AVR simulator for linux & OSX
 
-   Updated on 2017-11-21
+   Updated on 2019-08-15
 
 * [sphinx-sitemap](https://github.com/FabriceSalvaire/sphinx-sitemap)
 
