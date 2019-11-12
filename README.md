@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 503 :star:
+Overall stars: 537 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 503 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 235 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 250 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-08-16
+   Updated on 2019-11-08
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-07-18
+   Updated on 2019-08-19
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 503 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 163 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 179 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-08-15
+   Updated on 2019-11-11
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -235,11 +235,11 @@ Overall stars: 503 :star:
 
 ## Python for Pattern Drafting
 
-* [Patro](https://github.com/FabriceSalvaire/Patro) 13 :star:</br>
+* [Patro](https://github.com/FabriceSalvaire/Patro) 14 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-07-25
+   Updated on 2019-09-19
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -351,11 +351,11 @@ Overall stars: 503 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 23 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 25 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2019-05-13
+   Updated on 2019-10-29
 
 ## MuPDF
 
