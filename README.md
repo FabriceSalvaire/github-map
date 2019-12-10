@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 537 :star:
+Overall stars: 559 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 537 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 250 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 264 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-11-08
+   Updated on 2019-12-10
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-08-19
+   Updated on 2019-11-12
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,11 +181,11 @@ Overall stars: 537 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 179 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 184 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-11-11
+   Updated on 2019-12-10
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -291,11 +291,17 @@ Overall stars: 537 :star:
 
    Updated on 2017-11-21
 
-* [book-browser](https://github.com/FabriceSalvaire/book-browser) 2 :star:</br>
+* [book-browser](https://github.com/FabriceSalvaire/book-browser) 3 :star:</br>
 
    An application to digitise and read books (Python3 Qt5 QML)
 
-   Updated on 2019-04-14
+   Updated on 2019-12-09
+
+* [squirrel](https://github.com/FabriceSalvaire/squirrel) 1 :star:</br>
+
+   An experimental PDF document manager. 
+
+   Updated on 2019-12-01
 
 * [biblio-data](https://github.com/FabriceSalvaire/biblio-data)
 
@@ -321,12 +327,6 @@ Overall stars: 537 :star:
 
    Updated on 2018-12-22
 
-* [squirrel](https://github.com/FabriceSalvaire/squirrel)
-
-   An experimental PDF document manager. 
-
-   Updated on 2019-02-28
-
 ## Python Outdated
 
 * [PyLibTiff](https://github.com/FabriceSalvaire/PyLibTiff)
@@ -351,11 +351,11 @@ Overall stars: 537 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 25 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 26 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2019-10-29
+   Updated on 2019-12-10
 
 ## MuPDF
 
