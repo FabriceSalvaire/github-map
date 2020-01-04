@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 559 :star:
+Overall stars: 567 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 559 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 264 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 269 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-12-10
+   Updated on 2019-12-24
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-11-12
+   Updated on 2019-12-10
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -105,7 +105,7 @@ Overall stars: 559 :star:
 
    Sphinx extension for Lylipond
 
-   Updated on 2017-10-11
+   Updated on 2020-01-04
 
 * [sphinx-sass-theme](https://github.com/FabriceSalvaire/sphinx-sass-theme)
 
@@ -169,7 +169,7 @@ Overall stars: 559 :star:
 
    A Django CMS Boilerplate forked from aldryn-boilerplate-bootstrap3.
 
-   Updated on 2017-11-21
+   Updated on 2019-12-26
 
 ## Python Web Tools
 
@@ -181,11 +181,11 @@ Overall stars: 559 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 184 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 187 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-12-10
+   Updated on 2019-12-30
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
