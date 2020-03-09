@@ -3,21 +3,21 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 567 :star:
+Overall stars: 583 :star:
 
 ## Python Packages
+
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 7 :star:</br>
+
+   PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
+
+   Updated on 2020-01-24
 
 * [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
 
    An OpenGL CFFI (and ctypes) binding for Python
 
    Updated on 2018-01-30
-
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 6 :star:</br>
-
-   PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
-
-   Updated on 2019-07-15
 
 * [pyglfw-cffi](https://github.com/FabriceSalvaire/pyglfw-cffi) 2 :star:</br>
 
@@ -45,17 +45,17 @@ Overall stars: 567 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 269 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 277 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2019-12-24
+   Updated on 2020-03-01
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2019-12-10
+   Updated on 2020-01-04
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -77,12 +77,6 @@ Overall stars: 567 :star:
 
    Updated on 2018-02-07
 
-* [Pyterate](https://github.com/FabriceSalvaire/Pyterate) 1 :star:</br>
-
-   Pyterate is Sphinx add-ons to generate documentation for Python projects
-
-   Updated on 2018-06-06
-
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 1 :star:</br>
 
    This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
@@ -94,6 +88,12 @@ Overall stars: 567 :star:
    This plugin provides an enhanced literalinclude directive for the Sphinx Documentation Generator.
 
    Updated on 2018-01-20
+
+* [Pyterate](https://github.com/FabriceSalvaire/Pyterate)
+
+   Pyterate is Sphinx add-ons to generate documentation for Python projects
+
+   Updated on 2020-01-21
 
 * [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
 
@@ -135,11 +135,11 @@ Overall stars: 567 :star:
 
 ### DjangoCMS
 
-* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 3 :star:</br>
+* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 4 :star:</br>
 
    SVG Plugin for Django CMS
 
-   Updated on 2018-03-29
+   Updated on 2020-01-14
 
 * [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
 
@@ -181,11 +181,11 @@ Overall stars: 567 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 187 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 194 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2019-12-30
+   Updated on 2020-03-07
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
 
@@ -295,7 +295,7 @@ Overall stars: 567 :star:
 
    An application to digitise and read books (Python3 Qt5 QML)
 
-   Updated on 2019-12-09
+   Updated on 2020-03-09
 
 * [squirrel](https://github.com/FabriceSalvaire/squirrel) 1 :star:</br>
 
@@ -405,7 +405,7 @@ Overall stars: 567 :star:
 
    PyParis 2017 Talk — Circuit Simulation using Python 
 
-   Updated on 2018-07-24
+   Updated on 2020-02-20
 
 * [euroscipy_proceedings](https://github.com/FabriceSalvaire/euroscipy_proceedings)
 
