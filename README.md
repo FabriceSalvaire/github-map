@@ -3,15 +3,15 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 583 :star:
+Overall stars: 588 :star:
 
 ## Python Packages
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 7 :star:</br>
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 8 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   Updated on 2020-01-24
+   Updated on 2020-03-31
 
 * [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
 
@@ -45,17 +45,17 @@ Overall stars: 583 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 277 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 278 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2020-03-01
+   Updated on 2020-03-24
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2020-01-04
+   Updated on 2020-03-09
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,17 +181,17 @@ Overall stars: 583 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 194 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 196 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2020-03-07
+   Updated on 2020-03-20
 
-* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 2 :star:</br>
+* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 3 :star:</br>
 
    CPU Simulator written in Python
 
-   Updated on 2018-04-20
+   Updated on 2020-03-22
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
