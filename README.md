@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 588 :star:
+Overall stars: 593 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 588 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 278 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 282 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2020-03-24
+   Updated on 2020-04-08
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2020-03-09
+   Updated on 2020-04-01
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -181,17 +181,17 @@ Overall stars: 588 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 196 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 197 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2020-03-20
+   Updated on 2020-04-01
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 3 :star:</br>
 
    CPU Simulator written in Python
 
-   Updated on 2020-03-22
+   Updated on 2020-04-08
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
