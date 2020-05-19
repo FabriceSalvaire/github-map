@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 605 :star:
+Overall stars: 617 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 605 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 288 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 292 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2020-05-02
+   Updated on 2020-05-19
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2020-04-08
+   Updated on 2020-05-04
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -87,13 +87,13 @@ Overall stars: 605 :star:
 
    Pyterate is Sphinx add-ons to generate documentation for Python projects
 
-   Updated on 2020-04-27
+   Updated on 2020-05-19
 
 * [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode) 1 :star:</br>
 
    This plugin provides an enhanced literalinclude directive for the Sphinx Documentation Generator.
 
-   Updated on 2020-04-27
+   Updated on 2020-05-18
 
 * [pygments-lexer](https://github.com/FabriceSalvaire/pygments-lexer)
 
@@ -181,11 +181,11 @@ Overall stars: 605 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 202 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 209 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2020-05-04
+   Updated on 2020-05-16
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 3 :star:</br>
 
@@ -239,7 +239,7 @@ Overall stars: 605 :star:
 
    A Python library to make patterns for fashion design
 
-   Updated on 2019-09-19
+   Updated on 2020-05-15
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -351,11 +351,11 @@ Overall stars: 605 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 26 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 27 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2019-12-10
+   Updated on 2020-05-12
 
 ## MuPDF
 
@@ -391,7 +391,7 @@ Overall stars: 605 :star:
 
    None
 
-   Updated on 2017-11-21
+   Updated on 2020-05-14
 
 * [copr-xyce](https://github.com/FabriceSalvaire/copr-xyce)
 
