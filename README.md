@@ -3,15 +3,15 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 617 :star:
+Overall stars: 744 :star:
 
 ## Python Packages
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 8 :star:</br>
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 9 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   Updated on 2020-03-31
+   Updated on 2021-01-17
 
 * [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
 
@@ -45,17 +45,17 @@ Overall stars: 617 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 292 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 329 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2020-05-19
+   Updated on 2021-02-23
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2020-05-04
+   Updated on 2020-12-02
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -71,6 +71,12 @@ Overall stars: 617 :star:
 
 ### Sphinx Documentation Generator
 
+* [Pyterate](https://github.com/FabriceSalvaire/Pyterate) 2 :star:</br>
+
+   Pyterate is Sphinx add-ons to generate documentation for Python projects
+
+   Updated on 2020-12-11
+
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 2 :star:</br>
 
    This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
@@ -82,12 +88,6 @@ Overall stars: 617 :star:
    Microdata semantic markups support for Sphinx Documentation Generator.
 
    Updated on 2018-02-07
-
-* [Pyterate](https://github.com/FabriceSalvaire/Pyterate) 1 :star:</br>
-
-   Pyterate is Sphinx add-ons to generate documentation for Python projects
-
-   Updated on 2020-05-19
 
 * [sphinx-getthecode](https://github.com/FabriceSalvaire/sphinx-getthecode) 1 :star:</br>
 
@@ -105,7 +105,7 @@ Overall stars: 617 :star:
 
    Sphinx extension for Lylipond
 
-   Updated on 2020-01-04
+   Updated on 2020-12-10
 
 * [sphinx-sass-theme](https://github.com/FabriceSalvaire/sphinx-sass-theme)
 
@@ -181,17 +181,17 @@ Overall stars: 617 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 209 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 282 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2020-05-16
+   Updated on 2021-03-01
 
-* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 3 :star:</br>
+* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 8 :star:</br>
 
    CPU Simulator written in Python
 
-   Updated on 2020-04-08
+   Updated on 2021-02-22
 
 * [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
 
@@ -235,11 +235,11 @@ Overall stars: 617 :star:
 
 ## Python for Pattern Drafting
 
-* [Patro](https://github.com/FabriceSalvaire/Patro) 14 :star:</br>
+* [Patro](https://github.com/FabriceSalvaire/Patro) 15 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2020-05-15
+   Updated on 2020-07-26
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -285,11 +285,11 @@ Overall stars: 617 :star:
 
 ## Python Applications (PyQt5)
 
-* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 3 :star:</br>
+* [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 4 :star:</br>
 
    LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
 
-   Updated on 2017-11-21
+   Updated on 2020-09-02
 
 * [book-browser](https://github.com/FabriceSalvaire/book-browser) 3 :star:</br>
 
@@ -337,11 +337,11 @@ Overall stars: 617 :star:
 
 ## Web
 
-* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 22 :star:</br>
+* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 24 :star:</br>
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   Updated on 2020-04-16
+   Updated on 2020-11-25
 
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
@@ -351,11 +351,11 @@ Overall stars: 617 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 27 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 33 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2020-05-12
+   Updated on 2020-11-18
 
 ## MuPDF
 
