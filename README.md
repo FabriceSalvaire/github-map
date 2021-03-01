@@ -55,7 +55,7 @@ Overall stars: 744 :star:
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2020-12-02
+   Updated on 2021-03-01
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
