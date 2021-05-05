@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 744 :star:
+Overall stars: 775 :star:
 
 ## Python Packages
 
@@ -45,11 +45,11 @@ Overall stars: 744 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 329 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 339 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2021-02-23
+   Updated on 2021-04-30
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
@@ -181,11 +181,11 @@ Overall stars: 744 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 282 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 302 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2021-03-01
+   Updated on 2021-05-03
 
 * [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 8 :star:</br>
 
@@ -213,11 +213,11 @@ Overall stars: 744 :star:
 
    Updated on 2018-12-22
 
-* [pythonic-gcode-machine](https://github.com/FabriceSalvaire/pythonic-gcode-machine)
+* [pythonic-gcode-machine](https://github.com/FabriceSalvaire/pythonic-gcode-machine) 1 :star:</br>
 
    A Python G-code Toolkit ( NIST RS-274 / Gcode / ISO  )
 
-   Updated on 2018-12-27
+   Updated on 2021-03-05
 
 ## Python for Image Processing
 
