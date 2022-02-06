@@ -3,15 +3,15 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 775 :star:
+Overall stars: 883 :star:
 
 ## Python Packages
 
-* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 9 :star:</br>
+* [PyDVI](https://github.com/FabriceSalvaire/PyDVI) 10 :star:</br>
 
    PyDvi is a Python library to read and process DVI (DeVice Independent) files, the native output of LaTeX. The library provides a DVI machine as a base class which can be extended by the user and plugged to a TeX daemon in order to render contents on-the-fly. Also the source code provides a DVI viewer featuring an hardware accelerated rendering on GPU.
 
-   Updated on 2021-01-17
+   Updated on 2021-05-30
 
 * [PyOpenGLng](https://github.com/FabriceSalvaire/PyOpenGLng) 7 :star:</br>
 
@@ -45,17 +45,17 @@ Overall stars: 775 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 339 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 370 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2021-04-30
+   Updated on 2022-01-27
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2021-03-01
+   Updated on 2021-05-05
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -75,7 +75,7 @@ Overall stars: 775 :star:
 
    Pyterate is Sphinx add-ons to generate documentation for Python projects
 
-   Updated on 2020-12-11
+   Updated on 2021-05-15
 
 * [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 2 :star:</br>
 
@@ -115,11 +115,11 @@ Overall stars: 775 :star:
 
 ## Python Web Application
 
-* [bleau-database](https://github.com/bleaudb/bleau-database) 1 :star:</br>
+* [bleau-database](https://github.com/Alpine-Toolkit/bleau-database) 1 :star:</br>
 
     This repository contains a database of the bouldering circuits of Fontainebleau and a web application to show and manage this database.
 
-   Updated on 2018-03-21
+   Updated on 2022-01-31
 
 * [climbing-asso-portal](https://github.com/FabriceSalvaire/climbing-asso-portal)
 
@@ -135,17 +135,11 @@ Overall stars: 775 :star:
 
 ### DjangoCMS
 
-* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 4 :star:</br>
+* [cmsplugin-svg](https://github.com/FabriceSalvaire/cmsplugin-svg) 3 :star:</br>
 
    SVG Plugin for Django CMS
 
-   Updated on 2020-01-14
-
-* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax) 1 :star:</br>
-
-   MathJax Plugin for Django CMS 
-
-   Updated on 2016-10-26
+   Updated on 2021-10-02
 
 * [cmsplugin-getthecode](https://github.com/FabriceSalvaire/cmsplugin-getthecode)
 
@@ -158,6 +152,12 @@ Overall stars: 775 :star:
    Markup language (RST) plugin for Django CMS
 
    Updated on 2017-02-23
+
+* [cmsplugin-mathjax](https://github.com/FabriceSalvaire/cmsplugin-mathjax)
+
+   MathJax Plugin for Django CMS 
+
+   Updated on 2021-12-21
 
 * [cmsplugin-rst](https://github.com/FabriceSalvaire/cmsplugin-rst)
 
@@ -181,43 +181,43 @@ Overall stars: 775 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 302 :star:</br>
+* [PySpice](https://github.com/FabriceSalvaire/PySpice) 360 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2021-05-03
+   Updated on 2022-01-31
 
-* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 8 :star:</br>
+* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 10 :star:</br>
 
    CPU Simulator written in Python
 
-   Updated on 2021-02-22
+   Updated on 2021-08-07
 
-* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 2 :star:</br>
+* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 3 :star:</br>
 
    PyResistorColorCode is a Python module that provides some tools to manage IEC 60062 marking codes for resistors.
 
-   Updated on 2018-01-26
+   Updated on 2021-12-12
 
 ## Python for CAD — CAM - Mechanic
 
-* [LaserWeb-Tools](https://github.com/FabriceSalvaire/LaserWeb-Tools) 1 :star:</br>
+* [LaserWeb-Tools](https://github.com/FabriceSalvaire/LaserWeb-Tools) 2 :star:</br>
 
    Tools for LaserWeb
 
-   Updated on 2018-09-27
+   Updated on 2022-02-04
+
+* [pythonic-gcode-machine](https://github.com/FabriceSalvaire/pythonic-gcode-machine) 2 :star:</br>
+
+   A Python G-code Toolkit ( NIST RS-274 / Gcode / ISO  )
+
+   Updated on 2022-02-04
 
 * [linear-delta-robot](https://github.com/FabriceSalvaire/linear-delta-robot) 1 :star:</br>
 
    Linear Delta Robot Cinematic Study
 
    Updated on 2018-12-22
-
-* [pythonic-gcode-machine](https://github.com/FabriceSalvaire/pythonic-gcode-machine) 1 :star:</br>
-
-   A Python G-code Toolkit ( NIST RS-274 / Gcode / ISO  )
-
-   Updated on 2021-03-05
 
 ## Python for Image Processing
 
@@ -235,11 +235,11 @@ Overall stars: 775 :star:
 
 ## Python for Pattern Drafting
 
-* [Patro](https://github.com/FabriceSalvaire/Patro) 15 :star:</br>
+* [Patro](https://github.com/FabriceSalvaire/Patro) 20 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2020-07-26
+   Updated on 2021-10-25
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -285,17 +285,17 @@ Overall stars: 775 :star:
 
 ## Python Applications (PyQt5)
 
+* [book-browser](https://github.com/FabriceSalvaire/book-browser) 5 :star:</br>
+
+   An application to digitise and read books (Python3 Qt5 QML)
+
+   Updated on 2021-11-16
+
 * [LaptopControlPanel](https://github.com/FabriceSalvaire/LaptopControlPanel) 4 :star:</br>
 
    LaptopControlPanel is a Python module that provides a Graphical Control Panel for Lenovo Thinkpad Laptop and a console tool to monitor and manage the battery.
 
    Updated on 2020-09-02
-
-* [book-browser](https://github.com/FabriceSalvaire/book-browser) 3 :star:</br>
-
-   An application to digitise and read books (Python3 Qt5 QML)
-
-   Updated on 2020-03-09
 
 * [squirrel](https://github.com/FabriceSalvaire/squirrel) 1 :star:</br>
 
@@ -337,11 +337,11 @@ Overall stars: 775 :star:
 
 ## Web
 
-* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 24 :star:</br>
+* [redmine-improved-theme](https://github.com/FabriceSalvaire/redmine-improved-theme) 27 :star:</br>
 
    Redmine theme forked from the vanilla Redmine theme and converted to SASS
 
-   Updated on 2020-11-25
+   Updated on 2021-11-15
 
 * [css-demo](https://github.com/FabriceSalvaire/css-demo)
 
@@ -351,11 +351,11 @@ Overall stars: 775 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 33 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 35 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2020-11-18
+   Updated on 2021-09-06
 
 ## MuPDF
 
