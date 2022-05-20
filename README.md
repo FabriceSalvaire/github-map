@@ -3,7 +3,7 @@
 
 ![star plot](https://raw.github.com/FabriceSalvaire/github-map/master/star-plots/all.png)
 
-Overall stars: 883 :star:
+Overall stars: 926 :star:
 
 ## Python Packages
 
@@ -45,17 +45,17 @@ Overall stars: 883 :star:
 
 ## Python Tools for Developers
 
-* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 370 :star:</br>
+* [CodeReview](https://github.com/FabriceSalvaire/CodeReview) 380 :star:</br>
 
    CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 
-   Updated on 2022-01-27
+   Updated on 2022-05-20
 
 * [github-map](https://github.com/FabriceSalvaire/github-map)
 
    A summary of my projects on Github (using API and Python)
 
-   Updated on 2021-05-05
+   Updated on 2022-02-06
 
 * [python-memo](https://github.com/FabriceSalvaire/python-memo)
 
@@ -71,17 +71,17 @@ Overall stars: 883 :star:
 
 ### Sphinx Documentation Generator
 
+* [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 3 :star:</br>
+
+   This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
+
+   Updated on 2022-05-18
+
 * [Pyterate](https://github.com/FabriceSalvaire/Pyterate) 2 :star:</br>
 
    Pyterate is Sphinx add-ons to generate documentation for Python projects
 
    Updated on 2021-05-15
-
-* [sphinx-css3image](https://github.com/FabriceSalvaire/sphinx-css3image) 2 :star:</br>
-
-   This plugin provides an enhanced image directive with additional CSS properties for Sphinx Documentation Generator.
-
-   Updated on 2020-04-15
 
 * [sphinx-microdata](https://github.com/FabriceSalvaire/sphinx-microdata) 2 :star:</br>
 
@@ -181,23 +181,23 @@ Overall stars: 883 :star:
 
 ## Python for Electronic
 
-* [PySpice](https://github.com/FabriceSalvaire/PySpice) 360 :star:</br>
+* [PySpice](https://github.com/PySpice-org/PySpice) 386 :star:</br>
 
    Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 
-   Updated on 2022-01-31
+   Updated on 2022-05-15
 
-* [PyCpuSimulator](https://github.com/FabriceSalvaire/PyCpuSimulator) 10 :star:</br>
+* [PyCpuSimulator](https://github.com/PySpice-org/PyCpuSimulator) 12 :star:</br>
 
    CPU Simulator written in Python
 
-   Updated on 2021-08-07
+   Updated on 2022-03-12
 
-* [PyResistorColorCode](https://github.com/FabriceSalvaire/PyResistorColorCode) 3 :star:</br>
+* [PyResistorColorCode](https://github.com/PySpice-org/PyResistorColorCode) 3 :star:</br>
 
    PyResistorColorCode is a Python module that provides some tools to manage IEC 60062 marking codes for resistors.
 
-   Updated on 2021-12-12
+   Updated on 2022-02-06
 
 ## Python for CAD — CAM - Mechanic
 
@@ -235,11 +235,11 @@ Overall stars: 883 :star:
 
 ## Python for Pattern Drafting
 
-* [Patro](https://github.com/FabriceSalvaire/Patro) 20 :star:</br>
+* [Patro](https://github.com/FabriceSalvaire/Patro) 21 :star:</br>
 
    A Python library to make patterns for fashion design
 
-   Updated on 2021-10-25
+   Updated on 2022-05-08
 
 * [Patro-data](https://github.com/FabriceSalvaire/Patro-data)
 
@@ -351,19 +351,19 @@ Overall stars: 883 :star:
 
 ## Qt
 
-* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 35 :star:</br>
+* [qt5-vector-graphic-shaders](https://github.com/FabriceSalvaire/qt5-vector-graphic-shaders) 37 :star:</br>
 
    A Qt5 application to experiment vector graphic shaders
 
-   Updated on 2021-09-06
+   Updated on 2022-05-01
 
 ## MuPDF
 
-* [mupdf-cmake](https://github.com/FabriceSalvaire/mupdf-cmake) 1 :star:</br>
+* [mupdf-cmake](https://github.com/FabriceSalvaire/mupdf-cmake) 2 :star:</br>
 
    CMake build for MuPDF
 
-   Updated on 2019-04-25
+   Updated on 2022-03-30
 
 * [mupdf-v1.3](https://github.com/FabriceSalvaire/mupdf-v1.3)
 
@@ -505,7 +505,7 @@ Overall stars: 883 :star:
 
    simavr is a lean, mean and hackable AVR simulator for linux & OSX
 
-   Updated on 2019-08-15
+   Updated on 2022-02-06
 
 * [sphinx-sitemap](https://github.com/FabriceSalvaire/sphinx-sitemap)
 
